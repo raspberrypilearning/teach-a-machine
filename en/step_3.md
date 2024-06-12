@@ -1,4 +1,4 @@
-## Train the model Step by step guide
+## Train the model: Step-by-step guide
 
 ### Add images
 
