@@ -18,6 +18,7 @@ Each class is a category that you want the computer to recognise.
 --- /task ---
 
 Gather images of `five` fingers.
+
 --- task ---
 
 - Click **Webcam** in the `Five` class.
