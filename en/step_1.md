@@ -1,59 +1,14 @@
-## Introduction
+## What you will make
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You will train a machine learning model with images. 
 
-### What you will make
+You will then see how confident it is as it predicts whether it is being shown the first or second image.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![A hand is held up to a web camera. It alternates betweeen holding up five fingers and three fingers. In the output panel underneath the video, the confidence is displayed as to whether five or three fingers are being shown.](images/five_or_three.gif)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+### What you will need
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+- Access to this link
+[https://teachablemachine.withgoogle.com/train/image](https://teachablemachine.withgoogle.com/train/image)
+- A webcam
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
