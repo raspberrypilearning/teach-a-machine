@@ -48,7 +48,7 @@ Click `Train Model`
 
 --- /task ---
 
-- Be patient! It can take 10-20 seconds to complete.
+**Note** Be patient! It can take 10-20 seconds to complete.
 
 ### Preview and test
 
