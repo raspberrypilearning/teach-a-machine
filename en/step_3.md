@@ -1,6 +1,6 @@
 ## Train the model Step by step guide
 
-### Add images
+### Add images
 
 --- task ---
 
@@ -9,6 +9,7 @@ Open [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
 --- /task ---
 
 Each class is a category that you want the computer to recognise.
+
 --- task ---
 
 - Rename `Class 1` to `Five` 
