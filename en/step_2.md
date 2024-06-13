@@ -1,5 +1,3 @@
 ## Train the model: Video
 
-**TO DO** Short-form video showing how to add images to two classes then train and test a model
-
-
+![Screen recording showing how to add images to two classes then train and test a model.](images/teach-a-machine.mp4)
