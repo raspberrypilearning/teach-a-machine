@@ -1,6 +1,6 @@
-title: Create an image classifier
+title: Teach a machine
 hero_image: images/banner.png
-description: Create a machine learning model trained on images to build a classifier that can detect what is shown to a webcam
+description: Teach a computer to tell you how many fingers you are holding up!
 version: 1
 listed: false
 copyedit: false
