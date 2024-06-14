@@ -20,4 +20,4 @@ Settle the argument.
 
 Solve a problem for digital makers everywhere!
 
-![An image of a 12 ohm resistor is held up to a web camera. Then an image of a 330 ohm resistor. In the output panel underneath the video, the confidence is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_300.gif)
+![An image of a 12 ohm resistor is held up to a web camera. Then an image of a 330 ohm resistor. In the output panel underneath the video, the confidence is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
