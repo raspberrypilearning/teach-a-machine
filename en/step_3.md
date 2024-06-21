@@ -4,7 +4,7 @@
 
 --- task ---
 
-Open [Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
+Open [Teachable Machine](https://teachablemachine.withgoogle.com/train/image).
 
 --- /task ---
 
@@ -21,9 +21,9 @@ Gather images of `five` fingers.
 
 --- task ---
 
-- Click **Webcam** in the `Five` class.
-- Hold up five fingers to your webcam (make sure your whole hand is in view.)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images.
+- Click **Webcam** in the `Five` class
+- Hold up five fingers to your webcam (make sure your whole hand is in view)
+- With your other hand, press and hold the **Hold to Record** button to gather lots of images
 
 --- /task ---
 
@@ -32,9 +32,9 @@ Gather images of `three` fingers.
 
 --- task ---
 
-- Click **Webcam** in the `Three` class.
-- Hold up three fingers to your webcam (make sure your whole hand is in view.)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images.
+- Click **Webcam** in the `Three` class
+- Hold up three fingers to your webcam (make sure your whole hand is in view)
+- With your other hand, press and hold the **Hold to Record** button to gather lots of images
 
 --- /task ---
 
@@ -42,13 +42,13 @@ Gather images of `three` fingers.
 
 --- task ---
 
-Click `Train Model`
+Click `Train Model`.
 
 ![The 'Train Model' button.](images/train_model.png)
 
 --- /task ---
 
-**Note** Be patient! It can take 10-20 seconds to complete.
+**Note**: Be patient! It can take 10 to 20 seconds to complete.
 
 ### Preview and test
 
@@ -56,16 +56,16 @@ When your model is trained, the preview panel will open.
 
 --- task ---
 
-- Hold up **five** fingers and watch the Output section underneath the preview.
+- Hold up **five** fingers and watch the 'Output' section underneath the preview.
 
-You will see confidence scores for `Five` and `Three`
+You will see confidence scores for `Five` and `Three`.
 
 --- /task ---
 
 --- task ---
 
-- Hold up **three** fingers.
-- What is the highest confidence score you can get for Five?
-- What is the highest confidence score you can get for Three?
+- Hold up **three** fingers
+- What is the highest confidence score you can get for `Five`?
+- What is the highest confidence score you can get for `Three`?
 
 --- /task ---
