@@ -42,7 +42,7 @@ Gather images of `three` fingers.
 
 --- task ---
 
-Click `Train Model`.
+Click **Train Model**.
 
 ![The 'Train Model' button.](images/train_model.png)
 
