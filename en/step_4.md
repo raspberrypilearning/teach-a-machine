@@ -21,3 +21,7 @@ Settle the argument.
 Solve a problem for digital makers everywhere!
 
 ![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+
+## What next?
+
+If you want to have more fun exploring artificial intelligence, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=ai).
