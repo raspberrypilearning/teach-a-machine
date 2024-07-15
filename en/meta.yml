@@ -7,12 +7,12 @@ copyedit: true
 last_tested: "2024-05-24"
 steps:
   - title: What you will make
-  - title: Video guide
+  - title: Add images
     completion:
     - engaged
-  - title: Step-by-step guide
+  - title: Train and test
     completion:
     - internal
   - title: What can you do now?
     completion:
-    - internal
+    - external
