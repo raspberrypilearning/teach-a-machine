@@ -5,4 +5,4 @@
 Your browser does not support the video tag.
 </video>
 
-Access the machine learning platform here: [https://teachablemachine.withgoogle.com/train/image](https://teachablemachine.withgoogle.com/train/image)
+Access the machine learning platform here: [https://rpf.io/tm](https://rpf.io/tm)

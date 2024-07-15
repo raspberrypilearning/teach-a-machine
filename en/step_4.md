@@ -1,4 +1,4 @@
-## What can I do next?
+## What can you do now?
 
 Create your own classifier!
 
@@ -24,4 +24,4 @@ Solve a problem for digital makers everywhere!
 
 ## What next?
 
-If you want to have more fun exploring artificial intelligence, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=ai).
+If you want to have more fun exploring **artificial intelligence**, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=ai).
