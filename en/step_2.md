@@ -20,7 +20,7 @@ Your browser does not support the video tag.
 
 --- task ---
 
-Open [Teachable Machine](https://rpf.io/tm).
+Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 --- /task ---
 
