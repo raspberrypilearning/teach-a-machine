@@ -43,6 +43,17 @@ Gather images of `five` fingers.
 
 --- /task ---
 
+--- collapse ---
+
+---
+title: Where are my images stored?
+---
+
+- None of your data is stored or sent to this or any other site.
+- The technology is called 'machine learning', but it is not learning while you use it. 
+- It has already been trained using a large number of photos.
+
+--- /collapse ---
 
 Gather images of `three` fingers.
 
