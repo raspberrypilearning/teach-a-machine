@@ -6,18 +6,6 @@
 </div>
 </html>
 
---- collapse ---
----
-title: I cannot access YouTube
----
-
-<video width="640" height="360" controls>
-  <source src="images/tam-p1.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
---- /collapse ---
-
 --- task ---
 
 Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.

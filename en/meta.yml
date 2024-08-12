@@ -13,6 +13,7 @@ steps:
   - title: Train and test
     completion:
     - internal
+  - title: Challenge
   - title: What can you do now?
     completion:
     - external
