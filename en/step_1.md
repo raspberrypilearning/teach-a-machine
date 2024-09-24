@@ -22,7 +22,7 @@ You will need a **webcam**.
 title: No YouTube? Download the videos!
 ---
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}. 
+You can download all the videos for this project [by clicking here](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}. 
 
 
 --- /collapse ---
