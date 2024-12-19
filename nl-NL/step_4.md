@@ -1,4 +1,4 @@
-## Challenge
+## Uitdaging
 
 \--- challenge ---
 Create your own classifier!
@@ -11,7 +11,7 @@ I once ate a bee by mistake. Teach a machine to keep you safe!
 
 ![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
 
-\--- /task ---
+\---/task---
 
 ### Cake or biscuit?
 
