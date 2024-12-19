@@ -4,22 +4,22 @@ description: Teach a computer to tell you how many fingers you are holding up!
 version: 1
 listed: false
 copyedit: true
-last_tested: "2024-05-24"
+last_tested: "2024-05-06"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
     title: Add images
     completion:
       - engaged
   - 
-    title: Train and test
+    title: Навчи і протестуй
     completion:
       - internal
   - 
-    title: Challenge
+    title: Завдання
     challenge: true
   - 
-    title: What can you do now?
+    title: Швидкий тест
     completion:
       - external
