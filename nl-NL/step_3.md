@@ -1,4 +1,4 @@
-## Train the model
+## Train het model
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -10,13 +10,13 @@
 
 Click **Train Model**.
 
-![The 'Train Model' button.](images/train_model.png)
+![De 'Model trainen' knop.](images/train_model.png)
 
-\--- /task ---
+\---/task---
 
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
+**Note**: Be patient! Het kan 10 tot 20 seconden duren om te voltooien.
 
-### Preview and test
+### Preview en test
 
 When your model is trained, the preview panel will open.
 
@@ -26,7 +26,7 @@ When your model is trained, the preview panel will open.
 
 You will see confidence scores for `Five` and `Three`.
 
-\--- /task ---
+\---/task---
 
 \--- task ---
 
@@ -34,4 +34,4 @@ You will see confidence scores for `Five` and `Three`.
 - What is the highest confidence score you can get for `Five`?
 - What is the highest confidence score you can get for `Three`?
 
-\--- /task ---
+\---/task---
