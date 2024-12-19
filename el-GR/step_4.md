@@ -1,4 +1,4 @@
-## Challenge
+## Πρόκληση
 
 \--- challenge ---
 Create your own classifier!
