@@ -7,19 +7,19 @@ copyedit: true
 last_tested: "2024-05-24"
 steps:
   - 
-    title: What you will make
+    title: Ce que tu vas faire
   - 
     title: Add images
     completion:
-      - engaged
+      - engagé
   - 
-    title: Train and test
+    title: Entraîner et tester
     completion:
-      - internal
+      - interne
   - 
-    title: Challenge
+    title: Défi
     challenge: true
   - 
-    title: What can you do now?
+    title: Que peux-tu faire maintenant ?
     completion:
-      - external
+      - internal
