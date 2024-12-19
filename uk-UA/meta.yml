@@ -1,6 +1,6 @@
-title: Teach a machine
+title: Навчи машину
 hero_image: images/banner.png
-description: Teach a computer to tell you how many fingers you are holding up!
+description: Навчи компʼютер розрізняти, скільки пальців ти показуєш!
 version: 1
 listed: false
 copyedit: true
@@ -9,7 +9,7 @@ steps:
   - 
     title: Що ти зробиш
   - 
-    title: Add images
+    title: Додай зображення
     completion:
       - engaged
   - 
@@ -20,6 +20,6 @@ steps:
     title: Завдання
     challenge: true
   - 
-    title: Швидкий тест
+    title: Що ти тепер вмієш?
     completion:
       - external
