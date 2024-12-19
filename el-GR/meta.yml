@@ -7,7 +7,7 @@ copyedit: true
 last_tested: "2024-05-24"
 steps:
   - 
-    title: What you will make
+    title: Εισαγωγή
   - 
     title: Add images
     completion:
@@ -17,9 +17,9 @@ steps:
     completion:
       - internal
   - 
-    title: Challenge
+    title: Πρόκληση
     challenge: true
   - 
-    title: What can you do now?
+    title: Αναστοχασμός
     completion:
-      - external
+      - internal
