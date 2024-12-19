@@ -1,4 +1,4 @@
-## Train the model
+## Навчи модель
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
