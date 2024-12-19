@@ -1,4 +1,4 @@
-## Challenge
+## Défi
 
 \--- challenge ---
 Create your own classifier!
