@@ -1,0 +1,25 @@
+title: Teach a machine
+hero_image: images/banner.png
+description: Teach a computer to tell you how many fingers you are holding up!
+version: 1
+listed: false
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - 
+    title: Você vai fazer
+  - 
+    title: Add images
+    completion:
+      - engajado
+  - 
+    title: Train and test
+    completion:
+      - interno
+  - 
+    title: Desafio
+    challenge: true
+  - 
+    title: Perguntas rápidas
+    completion:
+      - internal
