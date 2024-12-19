@@ -1,4 +1,4 @@
-## Challenge
+## Завдання
 
 \--- challenge ---
 Create your own classifier!
