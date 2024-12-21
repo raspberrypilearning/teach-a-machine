@@ -7,7 +7,7 @@ copyedit: true
 last_tested: "2024-05-06"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
     title: Додай зображення
     completion:
@@ -17,7 +17,7 @@ steps:
     completion:
       - internal
   - 
-    title: Завдання
+    title: Додаткове завдання
     challenge: true
   - 
     title: Що ти тепер вмієш?
