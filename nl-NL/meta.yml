@@ -1,6 +1,6 @@
-title: Teach a machine
+title: Leer een machine
 hero_image: images/banner.png
-description: Teach a computer to tell you how many fingers you are holding up!
+description: Leer een computer om te vertellen hoeveel vingers je omhoog houdt!
 version: 1
 listed: false
 copyedit: true
@@ -9,7 +9,7 @@ steps:
   - 
     title: Wat ga je maken
   - 
-    title: Add images
+    title: Afbeeldingen toevoegen
     completion:
       - engaged
   - 
