@@ -1,36 +1,36 @@
-## Завдання
+## Додаткове завдання
 
 \--- challenge ---
 
-Create your own classifier!
+Створи власний класифікатор!
 
-### Bee or berry?
+### Бджола чи ягода?
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+Одного разу я випадково з'їв бджолу. Навчи машину оберігати тебе!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![До вебкамери підноситься зображення бджоли. Потім зображення ягоди. На панелі результатів під відео показано рівень упевненості щодо того, чи це бджола чи ягода.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### Пиріг чи печиво?
 
 \--- task ---
 
-Settle the argument.
+Створи класифікатор смаколиків.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![До вебкамери підноситься шматок пирога. Потім печиво. На панелі результатів під відео показано рівень упевненості щодо того, чи це пиріг чи печиво.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### Розпізнавач резисторів
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+Допоможи любителям електроніки у всьому світі!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+![До вебкамери підноситься резистор на 12 Ом. Потім резистор на 330 Ом. На панелі результатів під відео показано рівень упевненості щодо того, чи це резистор на 12 чи 330 Ом.](images/bee_or_berry.gif)
 
 \--- /task ---
 \--- /challenge ---
