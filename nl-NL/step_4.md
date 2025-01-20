@@ -2,35 +2,35 @@
 
 \--- challenge ---
 
-Create your own classifier!
+Maak je eigen classificator!
 
-### Bee or berry?
+### Bij of bes?
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+Ik heb ooit per ongeluk een bij opgegeten. Leer een machine om je veilig te houden!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![Een afbeelding van een bij wordt voor een webcam gehouden. Dan een afbeelding van een bes. In het uitvoerpaneel onder de video wordt de betrouwbaarheidsscore weergegeven voor de weergave van een bij of een bes.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### Cake of koekje?
 
 \--- task ---
 
-Settle the argument.
+Beslecht het geschil.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![Een stuk taart wordt voor een webcam gehouden. En dan een koekje. In het uitvoerpaneel onder de video wordt de betrouwbaarheidsscore weergegeven voor de vraag of er een taart of een koekje wordt getoond.](images/cake_or_biscuit.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### Weerstandsherkenner
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+Los een probleem op voor digitale makers overal ter wereld!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+![Een weerstand van 12 ohm wordt voor een webcam gehouden. Dan een weerstand van 330 ohm. In het uitvoerpaneel onder de video wordt de betrouwbaarheidsscore weergegeven voor de weergave van een weerstand van 12 ohm of 330 ohm.](images/12_or_330.gif)
 
 \--- /task ---
 \--- /challenge ---
