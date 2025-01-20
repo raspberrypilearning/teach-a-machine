@@ -8,30 +8,30 @@
 
 \--- task ---
 
-Click **Train Model**.
+Натисни **Train Model** («Навчити модель»).
 
-![The 'Train Model' button.](images/train_model.png)
-
-\--- /task ---
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-### Preview and test
-
-When your model is trained, the preview panel will open.
-
-\--- task ---
-
-- Hold up **five** fingers and watch the 'Output' section underneath the preview.
-
-You will see confidence scores for `Five` and `Three`.
+![Кнопка «Навчити модель».](images/train_model.png)
 
 \--- /task ---
 
+**Примітка**: не поспішай! Навчання може тривати від 10 до 20 секунд.
+
+### Попередній перегляд і тестування
+
+Коли модель закінчить навчання, відкриється панель попереднього перегляду.
+
 \--- task ---
 
-- Hold up **three** fingers
-- What is the highest confidence score you can get for `Five`?
-- What is the highest confidence score you can get for `Three`?
+- Піднеси **п’ять** пальців і подивись на панель результатів (Output) під попереднім переглядом.
+
+Ти побачиш, наскільки модель упевнена у своєму передбаченні щодо «п’яти» та «трьох» пальців.
+
+\--- /task ---
+
+\--- task ---
+
+- Піднеси **три** пальці
+- Який найвищий відсоток упевненості ти можеш отримати для «П’яти»?
+- Який найвищий відсоток упевненості ти можеш отримати для «Трьох»?
 
 \--- /task ---
