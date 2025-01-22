@@ -2,7 +2,7 @@ title: Leer een machine
 hero_image: images/banner.png
 description: Leer een computer om te vertellen hoeveel vingers je omhoog houdt!
 version: 1
-listed: false
+listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
@@ -16,10 +16,9 @@ steps:
     title: Trainen en testen
     completion:
       - internal
+      - external
   - 
     title: Uitdaging
     challenge: true
   - 
     title: Wat kun je nu doen?
-    completion:
-      - external
