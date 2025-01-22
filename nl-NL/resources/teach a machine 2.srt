@@ -1,27 +1,27 @@
 1
 00:00:03,040 --> 00:00:05,320
-Click 'Train model' and hang on...
+Klik op 'Model trainen' en wacht even...
 
 2
 00:00:05,320 --> 00:00:08,920
-because it could take ten to 
-twenty seconds to complete
+omdat het tien tot
+twintig seconden kan duren om te voltooien
 
 3
 00:00:08,920 --> 00:00:12,800
-When your model is trained, 
-the preview panel will open
+Zodra je model is getraind, 
+wordt het voorbeeldvenster geopend
 
 4
 00:00:12,800 --> 00:00:18,200
-Hold up five and three fingers and watch 
-the confidence scores in the output below.
+Houd vijf en drie vingers omhoog en bekijk
+de betrouwbaarheidsscores in de uitvoer hieronder.
 
 5
 00:00:18,200 --> 00:00:21,440
-Why not see if it can recognise cake or biscuits?
+Waarom probeer je niet eens of het taart of koekjes herkent?
 
 6
 00:00:21,440 --> 00:00:27,200
-Or bees and berries?
+Of bijen en bessen?
 
