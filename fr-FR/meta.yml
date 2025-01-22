@@ -2,7 +2,7 @@ title: Apprendre à une machine
 hero_image: images/banner.png
 description: Apprends à un ordinateur à te dire combien de doigts tu tiens en l'air !
 version: 1
-listed: false
+listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
@@ -16,10 +16,9 @@ steps:
     title: Entraîner et tester
     completion:
       - interne
+      - external
   - 
     title: Défi
     challenge: true
   - 
     title: Que peux-tu faire maintenant ?
-    completion:
-      - internal
