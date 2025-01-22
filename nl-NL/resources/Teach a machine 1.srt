@@ -1,35 +1,35 @@
 1
 00:00:02,840 --> 00:00:03,960
-Go to rpf.io/tm
+Ga naar rpf.io/tm
 
 2
 00:00:05,920 --> 00:00:10,880
-and rename 'Class 1' and 
-'Class 2' to 'Five' and 'Three'
+en hernoem 'Klasse 1' en 
+'Klasse 2' naar 'Vijf' en 'Drie'
 
 3
 00:00:10,880 --> 00:00:13,040
-Click 'Webcam' in the Five class
+Klik op 'Webcam' in de klasse `Vijf`
 
 4
 00:00:13,040 --> 00:00:14,760
-and hold up five fingers
+en houd vijf vingers omhoog
 
 5
 00:00:14,760 --> 00:00:19,240
-With your other hand, press and 
-hold the 'Hold to record' button
+Houd met je andere hand de knop 
+'Ingedrukt houden om op te nemen' ingedrukt
 
 6
 00:00:19,240 --> 00:00:21,680
-to gather loads of images
+om veel afbeeldingen te verzamelen
 
 7
 00:00:21,680 --> 00:00:24,360
-Switch to the 'Three' class 
-and gather loads of images
+Schakel over naar de klasse 'Drie'
+en verzamel heel veel afbeeldingen
 
 8
 00:00:24,360 --> 00:00:29,200
-of you holding up three fingers
+van jezelf terwijl je drie vingers omhoog houdt
 
