@@ -1,27 +1,27 @@
 1
 00:00:03,040 --> 00:00:05,320
-Click 'Train model' and hang on...
+Clique sur « Entraîner le modèle » et attends...
 
 2
 00:00:05,320 --> 00:00:08,920
-because it could take ten to 
-twenty seconds to complete
+car cela peut prendre de dix à 
+vingt secondes
 
 3
 00:00:08,920 --> 00:00:12,800
-When your model is trained, 
-the preview panel will open
+Lorsque ton modèle est entraîné, 
+le panneau de prévisualisation s'ouvrira
 
 4
 00:00:12,800 --> 00:00:18,200
-Hold up five and three fingers and watch 
-the confidence scores in the output below.
+Leve cinq et trois doigts et regarde 
+les scores de confiance dans le résultat ci-dessous.
 
 5
 00:00:18,200 --> 00:00:21,440
-Why not see if it can recognise cake or biscuits?
+Pourquoi ne pas voir s'il peut reconnaître des gâteaux ou des biscuits ?
 
 6
 00:00:21,440 --> 00:00:27,200
-Or bees and berries?
+Ou des abeilles et des baies ?
 
