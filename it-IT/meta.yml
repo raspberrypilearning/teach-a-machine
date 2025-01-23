@@ -16,9 +16,10 @@ steps:
     title: Train and test
     completion:
       - interno
-      - external
   - 
     title: Sfida
     challenge: true
   - 
     title: Cosa puoi fare adesso?
+    completion:
+      - external
