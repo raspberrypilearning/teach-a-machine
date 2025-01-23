@@ -16,9 +16,10 @@ steps:
     title: Навчи і протестуй
     completion:
       - internal
-      - external
   - 
     title: Додаткове завдання
     challenge: true
   - 
     title: Що ти тепер вмієш?
+    completion:
+      - external
