@@ -16,9 +16,10 @@ steps:
     title: Trainen en testen
     completion:
       - internal
-      - external
   - 
     title: Uitdaging
     challenge: true
   - 
     title: Wat kun je nu doen?
+    completion:
+      - external
