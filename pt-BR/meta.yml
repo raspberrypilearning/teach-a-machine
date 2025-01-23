@@ -16,9 +16,10 @@ steps:
     title: Train and test
     completion:
       - interno
-      - external
   - 
     title: Desafio
     challenge: true
   - 
     title: Perguntas rápidas
+    completion:
+      - external
