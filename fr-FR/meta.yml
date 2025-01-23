@@ -16,9 +16,10 @@ steps:
     title: Entraîner et tester
     completion:
       - interne
-      - external
   - 
     title: Défi
     challenge: true
   - 
     title: Que peux-tu faire maintenant ?
+    completion:
+      - external
