@@ -1,0 +1,27 @@
+1
+00:00:03,040 --> 00:00:05,320
+Clique sur « Entraîner le modèle » et attends...
+
+2
+00:00:05,320 --> 00:00:08,920
+car cela peut prendre de dix à 
+vingt secondes
+
+3
+00:00:08,920 --> 00:00:12,800
+Lorsque ton modèle est entraîné, 
+le panneau de prévisualisation s'ouvrira
+
+4
+00:00:12,800 --> 00:00:18,200
+Leve cinq et trois doigts et regarde 
+les scores de confiance dans le résultat ci-dessous.
+
+5
+00:00:18,200 --> 00:00:21,440
+Pourquoi ne pas voir s'il peut reconnaître des gâteaux ou des biscuits ?
+
+6
+00:00:21,440 --> 00:00:27,200
+Ou des abeilles et des baies ?
+
