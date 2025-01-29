@@ -1,27 +1,28 @@
 1
 00:00:03,040 --> 00:00:05,320
-Click 'Train model' and hang on...
+Натисни Train model («Тренувати модель») і зачекай...
 
 2
 00:00:05,320 --> 00:00:08,920
-because it could take ten to 
-twenty seconds to complete
+оскільки тренування може зайняти
+від десяти до двадцяти секунд.
 
 3
 00:00:08,920 --> 00:00:12,800
-When your model is trained, 
-the preview panel will open
+Коли модель закінчить навчання,
+відкриється панель попереднього перегляду
 
 4
 00:00:12,800 --> 00:00:18,200
-Hold up five and three fingers and watch 
-the confidence scores in the output below.
+Покажи п’ять, а потім три пальці та подивись,
+ як змінюються показники впевненості.
 
 5
 00:00:18,200 --> 00:00:21,440
-Why not see if it can recognise cake or biscuits?
+Чому б не перевірити, чи може вона
+відрізнити тістечко від печива?
 
 6
 00:00:21,440 --> 00:00:27,200
-Or bees and berries?
+Або бджолу від ягоди?
 
