@@ -1,0 +1,27 @@
+1
+00:00:03,040 --> 00:00:05,320
+Klik op 'Model trainen' en wacht even...
+
+2
+00:00:05,320 --> 00:00:08,920
+omdat het tien tot
+twintig seconden kan duren om te voltooien
+
+3
+00:00:08,920 --> 00:00:12,800
+Zodra je model is getraind, 
+wordt het voorbeeldvenster geopend
+
+4
+00:00:12,800 --> 00:00:18,200
+Houd vijf en drie vingers omhoog en bekijk
+de betrouwbaarheidsscores in de uitvoer hieronder.
+
+5
+00:00:18,200 --> 00:00:21,440
+Waarom probeer je niet eens of het taart of koekjes herkent?
+
+6
+00:00:21,440 --> 00:00:27,200
+Of bijen en bessen?
+

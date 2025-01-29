@@ -1,0 +1,35 @@
+1
+00:00:02,840 --> 00:00:03,960
+Va sur rpf.io/tm
+
+2
+00:00:05,920 --> 00:00:10,880
+et renomme « Classe 1 » et
+« Classe 2 » en « Cinq » et « Trois »
+
+3
+00:00:10,880 --> 00:00:13,040
+Clique sur « Webcam » dans la classe Cinq
+
+4
+00:00:13,040 --> 00:00:14,760
+et lève cinq doigts
+
+5
+00:00:14,760 --> 00:00:19,240
+Avec l'autre main, appuie et 
+maintien enfoncé le bouton « Maintenir pour enregistrer »
+
+6
+00:00:19,240 --> 00:00:21,680
+pour récupérer plein d'images
+
+7
+00:00:21,680 --> 00:00:24,360
+Passe à la classe « Trois » 
+et récupère de nombreuses images
+
+8
+00:00:24,360 --> 00:00:29,200
+de toi levant trois doigts
+

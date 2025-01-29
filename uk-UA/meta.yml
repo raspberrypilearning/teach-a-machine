@@ -1,0 +1,21 @@
+---
+title: Навчи машину
+hero_image: images/banner.png
+description: Навчи компʼютер розрізняти, скільки пальців ти показуєш!
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - title: Що ти зробиш
+  - title: Додай зображення
+    completion:
+      - engaged
+  - title: Навчи і протестуй
+    completion:
+      - internal
+  - title: Додаткове завдання
+    challenge: true
+  - title: Що ти тепер вмієш?
+    completion:
+      - external
