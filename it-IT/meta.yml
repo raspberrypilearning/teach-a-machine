@@ -1,6 +1,6 @@
-title: Teach a machine
+title: Insegna a una macchina
 hero_image: images/banner.png
-description: Teach a computer to tell you how many fingers you are holding up!
+description: Insegna a un computer a dirti quante dita stai alzando!
 version: 1
 listed: true
 copyedit: true
@@ -9,11 +9,11 @@ steps:
   - 
     title: Cosa creerai
   - 
-    title: Add images
+    title: Aggiungi immagini
     completion:
       - fatto
   - 
-    title: Train and test
+    title: Addestra e testa
     completion:
       - interno
   - 
