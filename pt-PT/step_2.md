@@ -1,4 +1,4 @@
-## Add images
+## Adiciona imagens
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Abre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
-Each class is a category that you want the computer to recognise.
+Cada classe é uma categoria que tu queres que o computador reconheça.
 
 \--- task ---
 
-- Rename `Class 1` to `Five`
-- Rename `Class 2` to `Three`
+- Muda o nome `Classe 1` para `Cinco`
+- Muda o nome `Classe 2` para `Três`
 
 \--- /task ---
 
-Gather images of `five` fingers.
+Reúne imagens de `cinco` dedos.
 
 \--- task ---
 
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Clica em **Webcam** na classe `Cinco`
+- Levanta cinco dedos em frente à tua webcam (certifica-te que a tua mão toda esteja visível)
+- Com a tua outra mão, pressiona e segura o botão **Tocar sem soltar para gravar** para recolher muitas imagens
 
 \--- /task ---
 
@@ -35,20 +35,20 @@ Gather images of `five` fingers.
 
 ---
 
-## title: Where are my images stored?
+## title: Onde estão guardadas as minhas imagens?
 
-- None of your data is stored or sent to this or any other site.
-- The technology is called 'machine learning', but it is not learning while you use it.
-- It has already been trained using a large number of photos.
+- Nenhum dos teus dados é armazenado ou enviado para este ou qualquer outro site.
+- A tecnologia é chamada 'machine learning', mas não aprende enquanto estás a usá-la.
+- Já foi treinada usando um grande número de fotos.
 
 \--- /collapse ---
 
-Gather images of `three` fingers.
+Recolhe imagens de `três` dedos.
 
 \--- task ---
 
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Clica em **Webcam** na classe `Três`
+- Levanta três dedos em frente à tua webcam (certifica-te que a tua mão toda esteja visível)
+- Com a tua outra mão, pressiona e segura o botão **Tocar sem soltar para gravar** para recolher muitas imagens
 
 \--- /task ---
