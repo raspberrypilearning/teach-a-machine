@@ -1,4 +1,4 @@
-## Add images
+## Προσθήκη εικόνων
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Άνοιξε το [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
-Each class is a category that you want the computer to recognise.
+Κάθε κλάση είναι μια κατηγορία που θέλεις να αναγνωρίσει ο υπολογιστής.
 
 \--- task ---
 
-- Rename `Class 1` to `Five`
-- Rename `Class 2` to `Three`
+- Μετονόμασε το `Class 1` σε `Five`
+- Μετονόμασε το `Class 2` σε `Three`
 
 \--- /task ---
 
-Gather images of `five` fingers.
+Συγκέντρωσε εικόνες από τα «πέντε» δάχτυλα.
 
 \--- task ---
 
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Κάνε κλικ στο **Webcam** στην κλάση `Five`
+- Κράτα ψηλά πέντε δάχτυλα μπροστά από την κάμερα web (βεβαιώσου ότι φαίνεται ολόκληρο το χέρι σου)
+- Με το άλλο σου χέρι, πάτα παρατεταμένα το κουμπί **Hold to Record** για να συγκεντρώσεις πολλές εικόνες
 
 \--- /task ---
 
@@ -35,20 +35,20 @@ Gather images of `five` fingers.
 
 ---
 
-## title: Where are my images stored?
+## title: Πού αποθηκεύονται οι εικόνες μου;
 
-- None of your data is stored or sent to this or any other site.
-- The technology is called 'machine learning', but it is not learning while you use it.
-- It has already been trained using a large number of photos.
+- Κανένα από τα δεδομένα σου δεν αποθηκεύεται ούτε αποστέλλεται σε αυτόν ή σε οποιονδήποτε άλλο ιστότοπο.
+- Η τεχνολογία ονομάζεται «μηχανική μάθηση», αλλά δεν μαθαίνει όσο τη χρησιμοποιείς.
+- Έχει ήδη εκπαιδευτεί χρησιμοποιώντας μεγάλο αριθμό φωτογραφιών.
 
 \--- /collapse ---
 
-Gather images of `three` fingers.
+Συγκέντρωσε εικόνες από τα «τρία» δάχτυλα.
 
 \--- task ---
 
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Κάνε κλικ στο **Webcam** στην κλάση `Three`
+- Κράτα ψηλά τρία δάχτυλα μπροστά από την κάμερα web (βεβαιώσου ότι φαίνεται ολόκληρο το χέρι σου)
+- Με το άλλο σου χέρι, πάτα παρατεταμένα το κουμπί **Hold to Record** για να συγκεντρώσεις πολλές εικόνες
 
 \--- /task ---
