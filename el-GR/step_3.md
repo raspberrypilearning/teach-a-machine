@@ -1,4 +1,4 @@
-## Εκπαιδεύστε το μοντέλο
+## Εκπαίδευση του μοντέλου
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,30 +8,30 @@
 
 \--- task ---
 
-Click **Train Model**.
+Κάνε κλικ στο **Train Model**.
 
-![The 'Train Model' button.](images/train_model.png)
-
-\--- /task ---
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-### Preview and test
-
-When your model is trained, the preview panel will open.
-
-\--- task ---
-
-- Hold up **five** fingers and watch the 'Output' section underneath the preview.
-
-You will see confidence scores for `Five` and `Three`.
+![Το κουμπί 'Train Model'.](images/train_model.png)
 
 \--- /task ---
 
+**Σημείωση**: Υπομονή! Μπορεί να χρειαστούν 10 έως 20 δευτερόλεπτα για να ολοκληρωθεί.
+
+### Προεπισκόπηση και δοκιμή
+
+Όταν το μοντέλο σου εκπαιδευτεί, θα ανοίξει ο πίνακας προεπισκόπησης.
+
 \--- task ---
 
-- Hold up **three** fingers
-- What is the highest confidence score you can get for `Five`?
-- What is the highest confidence score you can get for `Three`?
+- Κράτα ψηλά **πέντε** δάχτυλα και παρακολούθησε την ενότητα 'Output' κάτω από την προεπισκόπηση.
+
+Θα δείτε βαθμολογίες εμπιστοσύνης για `Five` και `Three`.
+
+\--- /task ---
+
+\--- task ---
+
+- Κράτα ψηλά **τρία** δάχτυλα
+- Ποια είναι η υψηλότερη βαθμολογία εμπιστοσύνης που μπορείς να πάρεις για το `Five`;
+- Ποια είναι η υψηλότερη βαθμολογία εμπιστοσύνης που μπορείς να πάρεις για το `Three`;
 
 \--- /task ---
