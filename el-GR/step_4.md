@@ -2,35 +2,35 @@
 
 \--- challenge ---
 
-Create your own classifier!
+Δημιουργήστε τον δικό σου ταξινομητή!
 
-### Bee or berry?
+### Μέλισσα ή μούρο;
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+Μια φορά κατά λάθος έφαγα μια μέλισσα. Δίδαξε μια μηχανή για να σε προστατεύει!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![Η εικόνα μιας μέλισσας μπροστά σε μια κάμερα web. Στη συνέχεια, μια εικόνα ενός μούρου. Στον πίνακα εξόδου κάτω από το βίντεο, εμφανίζεται η βαθμολογία εμπιστοσύνης ως προς το εάν εμφανίζεται μια μέλισσα ή ένα μούρο.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### Κέικ ή μπισκότο;
 
 \--- task ---
 
-Settle the argument.
+Θέσε το επιχείρημα.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![Ένα κομμάτι κέικ μπροστά από μια web κάμερα. Μετά, ένα μπισκότο. Στον πίνακα εξόδου κάτω από το βίντεο, εμφανίζεται η βαθμολογία εμπιστοσύνης ως προς το εάν εμφανίζεται κέικ ή ένα μπισκότο.](images/cake_or_biscuit.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### Αναγνώριση αντίστασης
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+Λύσε ένα πρόβλημα για τους ψηφιακούς κατασκευαστές σε όλον τον κόσμο!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+![Μια αντίσταση 12 ohm μπροστά από μια web κάμερα. Στη συνέχεια, μια αντίσταση 330 ohm. Στον πίνακα εξόδου κάτω από το βίντεο, εμφανίζεται η βαθμολογία εμπιστοσύνης ως προς το εάν εμφανίζεται μια αντίσταση 12 ohm ή 330 ohm.](images/12_or_330.gif)
 
 \--- /task ---
 \--- /challenge ---
