@@ -1,27 +1,27 @@
-## What you will make
+## O que vais fazer
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to recognize hand gestures for the numbers "Five" and "Three." On the right, in the "Preview" section, the webcam feed displays a hand showing three fingers. Below this, the "Output" section shows the classification results, with the model predicting a 94% probability for "Three" and a small 6% probability for "Five." The model has successfully identified the hand gesture as "Three."](images/wywm.png)
+![A imagem mostra uma interface de uma machine learning do "Teachable Machine", onde um modelo é treinado para reconhecer gestos com a mão para os números "Cinco" e "Três". À direita, na secção "Pré-visualização", o feed da webcam exibe uma mão a mostrar três dedos. Abaixo, a secção "Saída" mostra os resultados da classificação, onde o modelo prevê 94% de probabilidade para "Três" e uma pequena probabilidade de 6% para "Cinco". O modelo identificou com sucesso o gesto da mão como "Três".](images/wywm.png)
 
-You will teach a computer to tell you how many fingers you are holding up!
+Vais ensinar um computador a dizer-te quantos dedos tens levantados!
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title: Onde estão guardadas as minhas imagens?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados.
+- Este projeto não exige que cries uma conta ou faças login. Para este projeto, as imagens de exemplo que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
+- Nenhuma imagem da tua webcam é enviada para este site ou qualquer outro.
 
 \--- /collapse ---
 
-You will need a **webcam**.
+Vais precisar de uma **webcam**.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Não tens Youtube? Descarrega estes vídeos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
 
 \--- /collapse ---
