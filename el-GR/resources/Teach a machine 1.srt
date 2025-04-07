@@ -1,35 +1,35 @@
 1
 00:00:02,840 --> 00:00:03,960
-Go to rpf.io/tm
+Μετάβαση στο rpf.io/tm
 
 2
 00:00:05,920 --> 00:00:10,880
-and rename 'Class 1' and 
-'Class 2' to 'Five' and 'Three'
+και μετονόμασε τις 'Class 1' και
+'Class 2' σε 'Five' και 'Three'
 
 3
 00:00:10,880 --> 00:00:13,040
-Click 'Webcam' in the Five class
+Κάνε κλικ στο 'Webcam' στην κλάση Five
 
 4
 00:00:13,040 --> 00:00:14,760
-and hold up five fingers
+και κράτησε ψηλά πέντε δάχτυλα
 
 5
 00:00:14,760 --> 00:00:19,240
-With your other hand, press and 
-hold the 'Hold to record' button
+Με το άλλο σου χέρι, πάτα παρατεταμένα
+το κουμπί 'Hold to record'
 
 6
 00:00:19,240 --> 00:00:21,680
-to gather loads of images
+να συγκεντρώσουμε πολλές εικόνες
 
 7
 00:00:21,680 --> 00:00:24,360
-Switch to the 'Three' class 
-and gather loads of images
+Πήγαινε στην κλάση 'Three' 
+και συγκέντρωσε πολλές εικόνες
 
 8
 00:00:24,360 --> 00:00:29,200
-of you holding up three fingers
+κρατώντας μποστά στην κάμερα τα 3 δάχτυλα του χεριού σου
 
