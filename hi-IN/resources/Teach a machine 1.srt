@@ -1,35 +1,35 @@
 1
 00:00:02,840 --> 00:00:03,960
-Go to rpf.io/tm
+rpf.io/tm पर जाएं
 
 2
 00:00:05,920 --> 00:00:10,880
-and rename 'Class 1' and 
-'Class 2' to 'Five' and 'Three'
+और 'क्लास 1' और
+'क्लास 2' का नाम बदलकर 'पांच' और 'तीन' कर दें
 
 3
 00:00:10,880 --> 00:00:13,040
-Click 'Webcam' in the Five class
+पांच वर्ग में 'वेबकैम' पर क्लिक करें
 
 4
 00:00:13,040 --> 00:00:14,760
-and hold up five fingers
+और पाँच उंगलियाँ ऊपर उठाएँ
 
 5
 00:00:14,760 --> 00:00:19,240
-With your other hand, press and 
-hold the 'Hold to record' button
+अपने दूसरे हाथ से, 'रिकॉर्ड करने के लिए होल्ड करें' बटन को
+दबाकर रखें
 
 6
 00:00:19,240 --> 00:00:21,680
-to gather loads of images
+ढेर सारी छवियाँ इकट्ठा करना
 
 7
 00:00:21,680 --> 00:00:24,360
-Switch to the 'Three' class 
-and gather loads of images
+'Three' वर्ग
+पर जाएँ और ढेर सारी छवियां इकट्ठा करें
 
 8
 00:00:24,360 --> 00:00:29,200
-of you holding up three fingers
+आप तीन उंगलियाँ ऊपर उठाए हुए हैं
 
