@@ -1,27 +1,27 @@
-## भूमिका
+## आप क्या बनाएँगे
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to recognize hand gestures for the numbers "Five" and "Three." On the right, in the "Preview" section, the webcam feed displays a hand showing three fingers. Below this, the "Output" section shows the classification results, with the model predicting a 94% probability for "Three" and a small 6% probability for "Five." The model has successfully identified the hand gesture as "Three."](images/wywm.png)
+![चित्र "टीचएबल मशीन" से एक मशीन लर्निंग इंटरफ़ेस दिखाता है जहां एक मॉडल को "पांच" और "तीन" संख्याओं के लिए हाथ के इशारों को पहचानने के लिए प्रशिक्षित किया जा रहा है। दाईं ओर, "पूर्वावलोकन" अनुभाग में, वेबकैम फ़ीड में तीन उंगलियां दिखाते हुए एक हाथ प्रदर्शित होता है। इसके नीचे, "आउटपुट" अनुभाग वर्गीकरण परिणाम दिखाता है, जिसमें मॉडल "तीन" के लिए 94% संभावना और "पांच" के लिए 6% की छोटी संभावना की भविष्यवाणी करता है। मॉडल ने हाथ के इशारे को "तीन" के रूप में सफलतापूर्वक पहचान लिया है।](images/wywm.png)
 
-You will teach a computer to tell you how many fingers you are holding up!
+कंप्यूटर को सिखाएं कि वह आपको बताए कि आपने कितनी उंगलियां पकड़ रखी हैं!
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## शीर्षक: मेरी छवियाँ कहाँ संग्रहीत हैं?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- इस परियोजना में 'मशीन लर्निंग' नामक तकनीक का उपयोग किया गया है। मशीन लर्निंग सिस्टम को बड़ी मात्रा में डेटा का उपयोग करके प्रशिक्षित किया जाता है।
+- इस परियोजना के लिए आपको खाता बनाने या लॉग इन करने की आवश्यकता नहीं है। इस परियोजना के लिए, मॉडल बनाने के लिए आपके द्वारा उपयोग किए जाने वाले छवि उदाहरण केवल आपके ब्राउज़र में अस्थायी रूप से संग्रहीत किए जाते हैं (केवल आपकी मशीन पर)।
+- आपके वेबकैम से कोई भी छवि इस वेबसाइट या किसी अन्य वेबसाइट पर नहीं भेजी जाती है।
 
 \--- /collapse ---
 
-You will need a **webcam**.
+आपको एक वेबकैम की आवश्यकता होगी।
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## शीर्षक: यूट्यूब नहीं? वीडियो डाउनलोड करें!
 
-You can [download all the videos for this project](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
+आप [इस परियोजना के लिए सभी वीडियो डाउनलोड कर सकते हैं](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
 
 \--- /collapse ---
