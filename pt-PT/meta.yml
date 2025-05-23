@@ -1,0 +1,21 @@
+---
+title: Ensina uma máquina
+hero_image: images/banner.png
+description: Ensina um computador a dizer-te quantos dedos tens levantados!
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - title: O que vais fazer
+  - title: Adiciona imagens
+    completion:
+      - engaged
+  - title: Treina e testa
+    completion:
+      - internal
+  - title: Desafio
+    challenge: true
+  - title: O que se segue?
+    completion:
+      - external
