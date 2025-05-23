@@ -2,35 +2,35 @@
 
 \--- challenge ---
 
-Create your own classifier!
+अपना स्वयं का वर्गीकरणकर्ता बनाएं!
 
-### Bee or berry?
+### मधुमक्खी या बेरी?
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+एक बार मैंने गलती से एक मधुमक्खी खा लिया। मशीन को सिखाएं कि वह आपको सुरक्षित रखे!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![एक मधुमक्खी की छवि को वेब कैमरे के सामने रखा गया है। फिर, एक बेरी की छवि। वीडियो के नीचे आउटपुट पैनल में, विश्वास स्कोर प्रदर्शित किया जाता है कि क्या मधुमक्खी या बेरी दिखाई जा रही है।](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### केक या बिस्किट?
 
 \--- task ---
 
-Settle the argument.
+बहस को सुलझाओ.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![केक का एक टुकड़ा वेब कैमरे के सामने रखा गया है। फिर, एक बिस्किट. वीडियो के नीचे आउटपुट पैनल में, यह विश्वास स्कोर प्रदर्शित किया जाता है कि केक दिखाया जा रहा है या बिस्किट।](images/cake_or_biscuit.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### प्रतिरोधक पहचानकर्ता
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+दुनिया भर के डिजिटल निर्माताओं की समस्या का समाधान!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+एक 12 ओम अवरोधक को एक वेब कैमरा के सामने रखा गया है। फिर, एक 330 ओम प्रतिरोधक. वीडियो के नीचे आउटपुट पैनल में, विश्वास स्कोर प्रदर्शित किया जाता है कि 12 ओम या 330 ओम प्रतिरोधक दिखाया जा रहा है।](images/12_or_330.gif)
 
 \--- /task ---
 \--- /challenge ---
