@@ -1,4 +1,4 @@
-## एलियन शब्द बनाएं
+## मॉडल का परीक्षण करें
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,30 +8,30 @@
 
 \--- task ---
 
-Click **Train Model**.
+**ट्रेन मॉडल** पर क्लिक करें।
 
-![The 'Train Model' button.](images/train_model.png)
-
-\--- /task ---
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-### Preview and test
-
-When your model is trained, the preview panel will open.
-
-\--- task ---
-
-- Hold up **five** fingers and watch the 'Output' section underneath the preview.
-
-You will see confidence scores for `Five` and `Three`.
+!['ट्रेन मॉडल' बटन.](images/train_model.png)
 
 \--- /task ---
 
+**नोट:** धैर्य रखें! इसे पूरा होने में 10 से 20 सेकंड का समय लग सकता है।
+
+### पूर्वावलोकन और परीक्षण
+
+जब मॉडल प्रशिक्षित हो जाएगा, तो पूर्वावलोकन पैनल खुल जाएगा
+
 \--- task ---
 
-- Hold up **three** fingers
-- What is the highest confidence score you can get for `Five`?
-- What is the highest confidence score you can get for `Three`?
+- पांच उंगलियां ऊपर उठाएं और पूर्वावलोकन के नीचे 'आउटपुट' अनुभाग देखें।
+
+आप `पांच` और `तीन` के लिए विश्वास स्कोर देखेंगे।
+
+\--- /task ---
+
+\--- task ---
+
+- **तीन** उंगलियाँ ऊपर उठाएँ
+- `पांच` के लिए आप कितना उच्चतम विश्वास स्कोर प्राप्त कर सकते हैं?
+- `तीन` के लिए आप कितना उच्चतम विश्वास स्कोर प्राप्त कर सकते हैं?
 
 \--- /task ---
