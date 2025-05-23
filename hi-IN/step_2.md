@@ -1,4 +1,4 @@
-## Add images
+## छवि जोड़ें
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+[टीचएबल मशीन](https://rpf.io/tm){:target="_blank"} खोलें.
 
 \--- /task ---
 
-Each class is a category that you want the computer to recognise.
+प्रत्येक क्लास एक श्रेणी है जिसे आप चाहते हैं कि कंप्यूटर पहचाने।
 
 \--- task ---
 
-- Rename `Class 1` to `Five`
-- Rename `Class 2` to `Three`
+- `क्लास 1` का नाम बदलकर `पांच` करें
+- `क्लास 2` का नाम बदलकर `तीन` करें
 
 \--- /task ---
 
-Gather images of `five` fingers.
+`पांच` उंगलियों की छवियां इकट्ठा करें।
 
 \--- task ---
 
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- पांच वर्ग में 'वेबकैम' पर क्लिक करें
+- अपने वेबकैम के सामने पांच उंगलियां दिखाएँ (सुनिश्चित करें कि आपका पूरा हाथ दिखाई दे रहा है)
+- अपने दूसरे हाथ से, बहुत सारी छवियाँ एकत्र करने के लिए **रिकॉर्ड करने के लिए दबाए रखें** बटन को दबाकर रखें
 
 \--- /task ---
 
@@ -35,20 +35,20 @@ Gather images of `five` fingers.
 
 ---
 
-## title: Where are my images stored?
+## शीर्षक: मेरी छवियाँ कहाँ संग्रहीत हैं?
 
-- None of your data is stored or sent to this or any other site.
-- The technology is called 'machine learning', but it is not learning while you use it.
-- It has already been trained using a large number of photos.
+- आपका कोई भी डेटा इस या किसी अन्य साइट पर संग्रहीत या भेजा नहीं जाता है।
+- इस तकनीक को 'मशीन लर्निंग' कहा जाता है, लेकिन इसका उपयोग करते समय आप कुछ नहीं सीखते।
+- इसे पहले ही बड़ी संख्या में तस्वीरों का उपयोग करके प्रशिक्षित किया जा चुका है।
 
 \--- /collapse ---
 
-Gather images of `three` fingers.
+`तीन` उंगलियों की छवियां इकट्ठा करें।
 
 \--- task ---
 
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- `तीन` वर्ग में **वेबकैम** पर क्लिक करें
+- अपने वेबकैम के सामने  तीन उंगलियां दिखाएँ (सुनिश्चित करें कि आपका पूरा हाथ दिखाई दे रहा है)
+- अपने दूसरे हाथ से, बहुत सारी छवियाँ एकत्र करने के लिए **रिकॉर्ड करने के लिए दबाए रखें** बटन को दबाकर रखें
 
 \--- /task ---
