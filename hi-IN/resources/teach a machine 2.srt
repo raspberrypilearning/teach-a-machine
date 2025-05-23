@@ -1,27 +1,26 @@
 1
 00:00:03,040 --> 00:00:05,320
-Click 'Train model' and hang on...
+'ट्रेन मॉडल' पर क्लिक करें और रुकें...
 
 2
 00:00:05,320 --> 00:00:08,920
-because it could take ten to 
-twenty seconds to complete
+क्योंकि इसे पूरा होने में दस से
+बीस सेकंड का समय लग सकता है
 
 3
 00:00:08,920 --> 00:00:12,800
-When your model is trained, 
-the preview panel will open
+जब मॉडल प्रशिक्षित हो जाएगा, तो पूर्वावलोकन पैनल खुल जाएगा
 
 4
 00:00:12,800 --> 00:00:18,200
-Hold up five and three fingers and watch 
-the confidence scores in the output below.
+पांच और तीन उंगलियां ऊपर उठाएं और नीचे दिए गए आउटपुट में
+विश्वास स्कोर देखें।
 
 5
 00:00:18,200 --> 00:00:21,440
-Why not see if it can recognise cake or biscuits?
+क्यों न देखा जाए कि क्या यह केक या बिस्कुट को पहचान सकता है?
 
 6
 00:00:21,440 --> 00:00:27,200
-Or bees and berries?
+या मधुमक्खियां और जामुन?
 
