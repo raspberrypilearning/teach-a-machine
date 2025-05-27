@@ -1,4 +1,4 @@
-## Challenge
+## チャレンジ
 
 \--- challenge ---
 
