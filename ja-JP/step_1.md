@@ -1,4 +1,4 @@
-## What you will make
+## はじめに
 
 ![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to recognize hand gestures for the numbers "Five" and "Three." On the right, in the "Preview" section, the webcam feed displays a hand showing three fingers. Below this, the "Output" section shows the classification results, with the model predicting a 94% probability for "Three" and a small 6% probability for "Five." The model has successfully identified the hand gesture as "Three."](images/wywm.png)
 
