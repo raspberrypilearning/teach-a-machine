@@ -1,4 +1,4 @@
-## Add images
+## 画像を追加する
 
 <html>
 <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
