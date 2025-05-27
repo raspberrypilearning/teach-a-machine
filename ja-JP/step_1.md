@@ -1,27 +1,27 @@
 ## はじめに
 
-![The image shows a machine learning interface from "Teachable Machine" where a model is being trained to recognize hand gestures for the numbers "Five" and "Three." On the right, in the "Preview" section, the webcam feed displays a hand showing three fingers. Below this, the "Output" section shows the classification results, with the model predicting a 94% probability for "Three" and a small 6% probability for "Five." The model has successfully identified the hand gesture as "Three."](images/wywm.png)
+![この画像は「Teachable Machine」の機械学習インターフェースを示しており、モデルが数字の「5」と「3」の手のジェスチャーを認識するようにトレーニングされています。 右側の「プレビュー」セクションでは、ウェブカメラのフィードに 3 本の指を示す手が表示されます。 その下の「出力」セクションには分類結果が表示され、モデルは「3」の確率を 94%、「5」の確率をわずか 6% と予測しています。 モデルは手のジェスチャーを「3」として正常に識別しました。](images/wywm.png)
 
-You will teach a computer to tell you how many fingers you are holding up!
+何本の指を上げているかをコンピューターに教えましょう！
 
 \--- collapse ---
 
 ---
 
-## title: Where are my images stored?
+## title:: 画像はどこに保存されますか？
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿.
-- This project does not require you to create an account or log in. For this project, the image examples you use to make the model are only stored temporarily in your browser (only on your machine).
-- No images from your webcam are sent to this website or any other website.
+- このプロジェクトでは「機械学習」と呼ばれる技術が使用されています。 機械学習システムは、大量のデータを使用してトレーニングされます。
+- このプロジェクトでは、アカウントの作成やログインは必要ありません。 このプロジェクトでは、モデルの作成に使用する画像サンプルは、ブラウザ（ご使用のマシン上）にのみ一時的に保存されます。
+- ウェブカメラからの画像は、このウェブサイトまたは他のウェブサイトに送信されることはありません。
 
 \--- /collapse ---
 
-You will need a **webcam**.
+**ウェブカメラ**が必要になります。
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title:: YouTube はありませんか？ 動画をダウンロードしましょう！
 
-You can [download all the videos for this project](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
+[このプロジェクトのすべてのビデオをダウンロード] (https://rpf.io/p/en/teach-a-machine-go){:target="_blank"} できます。
 
 \--- /collapse ---
