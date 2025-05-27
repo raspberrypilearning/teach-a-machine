@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+[Teachable Machine](https://rpf.io/tm){:target="_blank"}を開きます。
 
 \--- /task ---
 
-Each class is a category that you want the computer to recognise.
+各クラスは、コンピューターに認識させたいカテゴリです。
 
 \--- task ---
 
-- Rename `Class 1` to `Five`
-- Rename `Class 2` to `Three`
+- `Class 1` の名前を `Five` に変更します
+- `Class 2` の名前を `Three` に変更します
 
 \--- /task ---
 
-Gather images of `five` fingers.
+「5本」の指の画像を集めます。
 
 \--- task ---
 
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- `Five`クラスの**Webcam**をクリックします
+- ウェブカメラに5本の指をかざします（手のひら全体が映っていることを確認してください）
+- もう一方の手で**長押し録画**ボタンを押し、たくさんの画像を収集してください
 
 \--- /task ---
 
@@ -35,20 +35,20 @@ Gather images of `five` fingers.
 
 ---
 
-## title: Where are my images stored?
+## title:: 画像はどこに保存されますか？
 
-- None of your data is stored or sent to this or any other site.
-- The technology is called 'machine learning', but it is not learning while you use it.
-- It has already been trained using a large number of photos.
+- あなたのデータはこのサイトや他のサイトに保存されたり、送信されたりすることはありません。
+- 技術は「機械学習」と呼ばれていますが、それを使用している間は学習ではありません。
+- それはすでに多数の写真を使用して訓練されています。
 
 \--- /collapse ---
 
-Gather images of `three` fingers.
+「3本」の指の画像を集めます。
 
 \--- task ---
 
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- `Three`クラスの**Webcam**をクリックします
+- ウェブカメラに3本の指をかざします（手のひら全体が映っていることを確認してください）
+- もう一方の手で**長押し録画**ボタンを押し、たくさんの画像を収集してください
 
 \--- /task ---
