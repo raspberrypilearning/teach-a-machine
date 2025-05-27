@@ -1,25 +1,25 @@
-title: Teach a machine
+title: 機械に教える
 hero_image: images/banner.png
-description: Teach a computer to tell you how many fingers you are holding up!
+description: 何本の指を上げているかをコンピューターに教えましょう！
 version: 1
 listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
   - 
-    title: What you will make
+    title: はじめに
   - 
-    title: Add images
+    title: 画像を追加する
     completion:
       - engaged
   - 
-    title: Train and test
+    title: トレーニングとテスト
     completion:
       - internal
   - 
-    title: Challenge
+    title: チャレンジ
     challenge: true
   - 
-    title: What can you do now?
+    title: 次は何をしましょうか？
     completion:
       - external
