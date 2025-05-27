@@ -1,35 +1,35 @@
 1
 00:00:02,840 --> 00:00:03,960
-Go to rpf.io/tm
+rpf.io/tm へアクセス
 
 2
 00:00:05,920 --> 00:00:10,880
-and rename 'Class 1' and 
-'Class 2' to 'Five' and 'Three'
+"Class 1"と 
+の"Class 2"の名前を`Five` と 'Three'に変更します
 
 3
 00:00:10,880 --> 00:00:13,040
-Click 'Webcam' in the Five class
+`Five`クラスの**Webcam**をクリックします
 
 4
 00:00:13,040 --> 00:00:14,760
-and hold up five fingers
+5本の指を立てて
 
 5
 00:00:14,760 --> 00:00:19,240
-With your other hand, press and 
-hold the 'Hold to record' button
+もう一方の手で「Hold to record」ボタンを
+押し続けてください
 
 6
 00:00:19,240 --> 00:00:21,680
-to gather loads of images
+たくさんの画像を集めるために
 
 7
 00:00:21,680 --> 00:00:24,360
-Switch to the 'Three' class 
-and gather loads of images
+'Three'クラス
+に切り替えて大量の画像を収集します
 
 8
 00:00:24,360 --> 00:00:29,200
-of you holding up three fingers
+3本の指を立てて
 
