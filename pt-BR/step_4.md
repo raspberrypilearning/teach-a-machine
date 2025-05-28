@@ -2,35 +2,35 @@
 
 \--- challenge ---
 
-Create your own classifier!
+Crie o seu próprio classificador!
 
-### Bee or berry?
+### Abelha ou framboesa?
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+Uma vez comi uma abelha por engano. Ensine uma máquina a mantê-lo seguro!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![Uma imagem de uma abelha é mostrada para uma webcam. Depois, a imagem de uma framboesa. No painel de saída abaixo do vídeo, o índice de confiança é exibido sobre se uma abelha ou uma framboesa está sendo mostrada.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### Bolo ou biscoito?
 
 \--- task ---
 
-Settle the argument.
+Resolva a discussão.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![Um pedaço de bolo é segurado em frente a uma webcam. Depois, um biscoito. No painel de saída abaixo do vídeo, o índice de confiança é exibido sobre se um bolo ou um biscoito está sendo mostrado.](images/cake_or_biscuit.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### Reconhecedor de resistores
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+Resolva um problema para os fabricantes digitais em toda a parte!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+![Um resistor de 12 ohms é exibido para uma webcam. Em seguida, resistir a 330 ohms. No painel de saída abaixo do vídeo, o índice de confiança é exibido para saber se um resistor de 12 ohms ou 330 ohms está sendo mostrado.](images/12_or_330.gif)
 
 \--- /task ---
 \--- /challenge ---
