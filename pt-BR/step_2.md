@@ -8,26 +8,26 @@
 
 \--- task ---
 
-Open [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Abra [Máquina Ensinável](https://rpf.io/tm){:target="_blank"}.
 
 \--- /task ---
 
-Each class is a category that you want the computer to recognise.
+Cada classe é uma categoria que você quer que o computador reconheça.
 
 \--- task ---
 
-- Rename `Class 1` to `Five`
-- Rename `Class 2` to `Three`
+- Renomeie `Classe 1` para `Cinco`
+- Renomeie `Classe 2` para `Três`
 
 \--- /task ---
 
-Gather images of `five` fingers.
+Colete imagens de `cinco` dedos.
 
 \--- task ---
 
-- Click **Webcam** in the `Five` class
-- Hold up five fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Clique em **Webcam** na classe `Cinco`
+- Mostre cinco dedos em direção à sua webcam (certifique-se de que toda a sua mão esteja visível)
+- Com seu outro lado, pressione e segure o botão **Segure para gravar** para coletar muitas imagens
 
 \--- /task ---
 
@@ -35,20 +35,20 @@ Gather images of `five` fingers.
 
 ---
 
-## title: Where are my images stored?
+## título: Onde minhas imagens são armazenadas?
 
-- None of your data is stored or sent to this or any other site.
-- The technology is called 'machine learning', but it is not learning while you use it.
-- It has already been trained using a large number of photos.
+- Nenhum dos seus dados é armazenado ou enviado para este ou qualquer outro site.
+- A tecnologia é chamada de "aprendizado de máquina", mas a máquina não está aprendendo enquanto você a usa.
+- Ela já foi treinada usando um grande número de fotos.
 
 \--- /collapse ---
 
-Gather images of `three` fingers.
+Colete imagens de `três` dedos.
 
 \--- task ---
 
-- Click **Webcam** in the `Three` class
-- Hold up three fingers to your webcam (make sure your whole hand is in view)
-- With your other hand, press and hold the **Hold to Record** button to gather lots of images
+- Clique em **Webcam** na classe `Três`
+- Mostre três dedos em direção à sua webcam (certifique-se de que toda a sua mão esteja visível)
+- Com seu outro lado, pressione e segure o botão **Segure para gravar** para coletar muitas imagens
 
 \--- /task ---
