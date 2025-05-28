@@ -2,35 +2,35 @@
 
 \--- challenge ---
 
-Create your own classifier!
+¡Crea tu propio clasificador!
 
-### Bee or berry?
+### ¿Abeja o baya?
 
 \--- task ---
 
-I once ate a bee by mistake. Teach a machine to keep you safe!
+Una vez me comí una abeja por error. ¡Enséñale a una máquina a mantenerte seguro!
 
-![An image of a bee is held up to a web camera. Then, an image of a berry. In the output panel underneath the video, the confidence score is displayed as to whether a bee or a berry is being shown.](images/bee_or_berry.gif)
+![Se muestra la imagen de una abeja frente a una cámara web. Luego, una imagen de una baya. En el panel de salida debajo del video, se muestra el indice de confianza que indica si se muestra una abeja o una baya.](images/bee_or_berry.gif)
 
 \--- /task ---
 
-### Cake or biscuit?
+### ¿Pastel o galleta?
 
 \--- task ---
 
-Settle the argument.
+Resolver la discusión.
 
-![A piece of cake is held up to a web camera. Then, a biscuit. In the output panel underneath the video, the confidence score is displayed as to whether a cake or a biscuit is being shown.](images/cake_or_biscuit.gif)
+![Se sostiene un trozo de pastel frente a una cámara web. Luego, una galleta. En el panel de salida debajo del video, se muestra el indice de confianza que indica si se muestra un pastel o una galleta.](images/cake_or_biscuit.gif)
 
 \--- /task ---
 
-### Resistor recogniser
+### Reconocimiento de resistencias
 
 \--- task ---
 
-Solve a problem for digital makers everywhere!
+¡Resuelve un problema para los creadores digitales de todo el mundo!
 
-![A 12 ohm resistor is held up to a web camera. Then, a 330 ohm resistor. In the output panel underneath the video, the confidence score is displayed as to whether a 12 ohm or a 330 ohm resistor is being shown.](images/12_or_330.gif)
+![Se coloca una resistencia de 12 ohmios frente a una cámara web. Luego, una resistencia de 330 ohmios. En el panel de salida debajo del video, se muestra el indice de confianza según se esté mostrando una resistencia de 12 ohmios o de 330 ohmios.](images/12_or_330.gif)
 
 \--- /task ---
 \--- /challenge ---
