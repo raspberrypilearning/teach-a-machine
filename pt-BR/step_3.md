@@ -1,4 +1,4 @@
-## Crie palavras alienígenas
+## Treine o modelo
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,30 +8,30 @@
 
 \--- task ---
 
-Click **Train Model**.
+Clique em **Treinar Modelo**.
 
-![The 'Train Model' button.](images/train_model.png)
-
-\--- /task ---
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-### Preview and test
-
-When your model is trained, the preview panel will open.
-
-\--- task ---
-
-- Hold up **five** fingers and watch the 'Output' section underneath the preview.
-
-You will see confidence scores for `Five` and `Three`.
+![Botão 'Treinar Modelo'.](images/train_model.png)
 
 \--- /task ---
 
+**Observação**: Seja paciente! Pode levar de 10 a 20 segundos para ser concluído.
+
+### Pré-visualizar e testar
+
+Quando seu modelo é treinado, o painel de pré-visualização será aberto.
+
 \--- task ---
 
-- Hold up **three** fingers
-- What is the highest confidence score you can get for `Five`?
-- What is the highest confidence score you can get for `Three`?
+- Mostre **cinco** dedos e veja a seção 'Saída' embaixo da pretela.
+
+Você verá índices de confiança para `Cinco` e `Três`.
+
+\--- /task ---
+
+\--- task ---
+
+- Mostre **três** dedos
+- Qual é a maior índice de confiança que você pode obter para `Cinco`?
+- Qual é a maior índice de confiança que você pode obter para `Três`?
 
 \--- /task ---
