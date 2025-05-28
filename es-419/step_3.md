@@ -1,4 +1,4 @@
-## Train the model
+## Entrena el modelo
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,30 +8,30 @@
 
 \--- task ---
 
-Click **Train Model**.
+Haga clic en **Entrenar el Modelo**.
 
-![The 'Train Model' button.](images/train_model.png)
-
-\--- /task ---
-
-**Note**: Be patient! It can take 10 to 20 seconds to complete.
-
-### Preview and test
-
-When your model is trained, the preview panel will open.
-
-\--- task ---
-
-- Hold up **five** fingers and watch the 'Output' section underneath the preview.
-
-You will see confidence scores for `Five` and `Three`.
+![El botón 'Entrenar el Modelo'.](images/train_model.png)
 
 \--- /task ---
 
+**Nota**: ¡Ten paciencia! Puede tardar de 10 a 20 segundos en completarse.
+
+### Vista previa y prueba
+
+Cuando su modelo esté entrenado, se abrirá el panel de vista previa.
+
 \--- task ---
 
-- Hold up **three** fingers
-- What is the highest confidence score you can get for `Five`?
-- What is the highest confidence score you can get for `Three`?
+- Levante **cinco** dedos y mire la sección 'Salida' debajo de la vista previa.
+
+Verá el indice de confianza para `Cinco` y `Tres`.
+
+\--- /task ---
+
+\--- task ---
+
+- Levanta **tres** dedos
+- ¿Cuál es el indice de confianza más alto que puedes obtener para `Cinco`?
+- ¿Cuál es el indice de confianza más alto que puedes obtener para `Tres`?
 
 \--- /task ---
