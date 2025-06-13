@@ -22,6 +22,6 @@ Vais precisar de uma **webcam**.
 
 ## title: Não tens Youtube? Descarrega estes vídeos!
 
-Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/teach-a-machine-go){:target="_blank"}.
 
 \--- /collapse ---
