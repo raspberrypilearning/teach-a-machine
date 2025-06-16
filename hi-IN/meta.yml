@@ -1,0 +1,21 @@
+---
+title: मशीन को सिखाएं
+hero_image: images/banner.png
+description: कंप्यूटर को सिखाएं कि वह आपको बताए कि आपने कितनी उंगलियां पकड़ रखी हैं!
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - title: आप क्या बनाएँगे
+  - title: छवि जोड़ें
+    completion:
+      - engaged
+  - title: प्रशिक्षण और परीक्षण
+    completion:
+      - internal
+  - title: चुनौती
+    challenge: true
+  - title: अब आप क्या कर सकते हैं?
+    completion:
+      - external
