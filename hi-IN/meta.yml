@@ -16,6 +16,5 @@ steps:
       - internal
   - title: चुनौती
     challenge: true
-  - title: अब आप क्या कर सकते हैं?
     completion:
       - external

@@ -16,6 +16,5 @@ steps:
       - internal
   - title: Desafio
     challenge: true
-  - title: O que você pode fazer agora?
     completion:
       - external
