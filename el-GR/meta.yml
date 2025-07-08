@@ -1,0 +1,20 @@
+---
+title: Δίδαξε μια μηχανή
+hero_image: images/banner.png
+description: Δίδαξε έναν υπολογιστή να σου λέει πόσα δάχτυλα δείχνεις!
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - title: Τι θα φτιάξεις
+  - title: Προσθήκη εικόνων
+    completion:
+      - engaged
+  - title: Εκπαίδευση και δοκιμή
+    completion:
+      - internal
+  - title: Πρόκληση
+    challenge: true
+    completion:
+      - external
