@@ -35,7 +35,7 @@ Colete imagens de `cinco` dedos.
 
 ---
 
-## título: Onde minhas imagens são armazenadas?
+## title: Onde minhas imagens são armazenadas?
 
 - Nenhum dos seus dados é armazenado ou enviado para este ou qualquer outro site.
 - A tecnologia é chamada de "aprendizado de máquina", mas a máquina não está aprendendo enquanto você a usa.
