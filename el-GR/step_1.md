@@ -20,7 +20,7 @@
 
 ## --- collapse ---
 
-## title: Υπάρχει στο YouTube; Κάνε λήψη των βίντεο!
+## title: Δεν υπάρχει πρόβαση στο YouTube; Κάνε λήψη των βίντεο!
 
 Μπορείς να [κατεβάσεις όλα τα βίντεο γι' αυτό το έργο](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
 
