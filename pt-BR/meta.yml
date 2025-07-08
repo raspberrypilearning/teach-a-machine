@@ -11,15 +11,13 @@ steps:
   - 
     title: Adicionar imagens
     completion:
-      - engajado
+      - engaged
   - 
     title: Treinar e testar
     completion:
-      - interno
+      - internal
   - 
     title: Desafio
     challenge: true
-  - 
-    title: O que você pode fazer agora?
     completion:
       - external
