@@ -19,7 +19,5 @@ steps:
   - 
     title: Desafío
     challenge: true
-  - 
-    title: '¿Qué puedes hacer ahora?'
     completion:
       - external
