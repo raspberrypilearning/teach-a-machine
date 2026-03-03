@@ -4,7 +4,7 @@
 
 Du wirst einem Computer beibringen, dir zu sagen, wie viele Finger du hochhältst!
 
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -14,14 +14,15 @@ Du wirst einem Computer beibringen, dir zu sagen, wie viele Finger du hochhälts
 - Für dieses Projekt musst du kein Konto erstellen oder dich anmelden. Für dieses Projekt werden die Bildbeispiele für die Modellerstellung nur vorübergehend im Browser gespeichert (nur auf deinem Computer).
 - Es werden keine Bilder von deiner Webcam zu dieser oder anderen Webseiten gesendet.
 
-\--- /collapse ---
+--- /collapse ---
 
 Du benötigst eine **Webcam**.
 
-## --- collapse ---
+--- collapse ---
+---
+title: Kein YouTube? Videos downloaden!
+---
 
-## title: Kein YouTube? Videos downloaden!
+Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/de-DE/teach-a-machine-go){:target="_blank"}.
 
-Du kannst [alle Videos zu diesem Projekt herunterladen](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
-
-\--- /collapse ---
+--- /collapse ---
