@@ -1,0 +1,26 @@
+1
+00:00:03,040 --> 00:00:05,320
+Klicke 'Trainiere Modell' und warte...
+
+2
+00:00:05,320 --> 00:00:08,920
+weil es zehn bis zwanzig 
+Sekunden dauern kann
+
+3
+00:00:08,920 --> 00:00:12,800
+Wenn dein Modell trainiert ist, 
+wird das Vorschaufenster geöffnet
+
+4
+00:00:12,800 --> 00:00:18,200
+Halte abwechselnd fünf und drei Finger hoch und beobachte wie sich die Vertrauenswerte im Ausgabefeld verändern.
+
+5
+00:00:18,200 --> 00:00:21,440
+Wieso probierst du nicht, ob es Kuchen und Kekse erkennt?
+
+6
+00:00:21,440 --> 00:00:27,200
+Oder Bienen und Beeren?
+
