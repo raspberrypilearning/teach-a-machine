@@ -7,8 +7,8 @@ Du wirst einem Computer beibringen, dir zu sagen, wie viele Finger du hochhälts
 --- collapse ---
 
 ---
-
-## title: Wo werden meine Bilder gespeichert?
+title: Wo werden meine Bilder gespeichert?
+---
 
 - Das Projekt verwendet eine Technologie namens 'Maschinelles Lernen' (oder englisch 'Machine Learning'). Systeme für Maschinelles Lernen werden mit großer Datenmenge trainiert.
 - Für dieses Projekt musst du kein Konto erstellen oder dich anmelden. Für dieses Projekt werden die Bildbeispiele für die Modellerstellung nur vorübergehend im Browser gespeichert (nur auf deinem Computer).

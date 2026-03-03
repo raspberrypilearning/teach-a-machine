@@ -30,7 +30,7 @@ Beende den Streit.
 
 Löse ein Problem für alle digitalen Bastler!
 
-![Ein 12 Ohm-Widerstand wird vor eine Webcam gehalten. Dann ein 330 Ohm-Widerstand. Im Ausgabefeld unter dem Video erscheint der Vertrauenswert, ob ein 12-Ohm oder ein 330-Ohm Widerstand angezeigt wird. (images/12_or_330.gif)
+![Ein 12 Ohm-Widerstand wird vor eine Webcam gehalten. Dann ein 330 Ohm-Widerstand. Im Ausgabefeld unter dem Video erscheint der Vertrauenswert, ob ein 12-Ohm oder ein 330-Ohm Widerstand angezeigt wird.](images/12_or_330.gif)
 
 --- /task ---
 --- /challenge ---

@@ -34,8 +34,8 @@ Sammle Bilder von `Fünf` Fingern.
 --- collapse ---
 
 ---
-
-## title: Wo werden meine Bilder gespeichert?
+title: Wo werden meine Bilder gespeichert?
+---
 
 - Keine deiner Daten werden gespeichert oder an diese oder andere Webseiten geschickt.
 - Die Technologie heißt zwar "maschinelles Lernen", jedoch lernt sie nicht, während du sie benutzt.
