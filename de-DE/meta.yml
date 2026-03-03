@@ -1,0 +1,23 @@
+title: Trainiere eine Maschine
+hero_image: images/banner.png
+description: Bringe einem Computer bei, wie viele Finger du hochhältst!
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-06"
+steps:
+  - 
+    title: Das wirst du machen
+  - 
+    title: Bilder hinzufügen
+    completion:
+      - engaged
+  - 
+    title: Trainieren und testen
+    completion:
+      - internal
+  - 
+    title: Aufgabe
+    challenge: true
+    completion:
+      - external
