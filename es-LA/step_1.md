@@ -7,8 +7,8 @@
 --- collapse ---
 
 ---
-
-## título: ¿Dónde se almacenan mis imágenes?
+title: ¿Dónde se almacenan mis imágenes?
+---
 
 - Este proyecto usa una tecnología llamada 'aprendizaje automático' ('machine learning' en inglés). Los sistemas de aprendizaje automático son entrenados usando una gran cantidad de datos.
 - Este proyecto no requiere que crees una cuenta o inicies sesión. Para este proyecto, las imágenes de ejemplo que uses para crear el modelo solo se almacenan temporalmente en tu navegador (solo en tu computadora).
@@ -23,6 +23,6 @@ Necesitarás una **cámara web**.
 title: ¿No tienes YouTube? ¡Descarga los videos!
 ---
 
-Puedes [descargar todos los vídeos de este proyecto](https://rpf.io/p/es-419/teach-a-machine-go){:target="_blank"}.
+Puedes [descargar todos los vídeos de este proyecto](https://rpf.io/p/es-LA/teach-a-machine-go){:target="_blank"}.
 
 --- /collapse ---

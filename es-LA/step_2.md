@@ -34,8 +34,8 @@ Recolecta imágenes de `cinco` dedos.
 --- collapse ---
 
 ---
-
-## title: ¿Dónde se almacenan mis imágenes?
+title: ¿Dónde se almacenan mis imágenes?
+---
 
 - Ninguno de tus datos se almacena ni se envía a este ni a ningún otro sitio.
 - La tecnología se llama 'aprendizaje automático', pero no aprende mientras la usas.
