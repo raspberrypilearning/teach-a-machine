@@ -4,7 +4,7 @@
 
 ¡Le enseñarás a una computadora a decirte cuántos dedos tienes levantados!
 
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -14,14 +14,15 @@
 - Este proyecto no requiere que crees una cuenta o inicies sesión. Para este proyecto, las imágenes de ejemplo que uses para crear el modelo solo se almacenan temporalmente en tu navegador (solo en tu computadora).
 - No se envía ninguna imagen de tu cámara web a este sitio web ni a ningún otro sitio web.
 
-\--- /collapse ---
+--- /collapse ---
 
 Necesitarás una **cámara web**.
 
-## --- collapse ---
+--- collapse ---
+---
+title: ¿No tienes YouTube? ¡Descarga los videos!
+---
 
-## title: ¿No tienes YouTube? ¡Descarga los videos!
+Puedes [descargar todos los vídeos de este proyecto](https://rpf.io/p/es-419/teach-a-machine-go){:target="_blank"}.
 
-Puedes [descargar todos los vídeos de este proyecto](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
-
-\--- /collapse ---
+--- /collapse ---

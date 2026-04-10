@@ -1,3 +1,4 @@
+---
 title: Enséñale a una máquina
 hero_image: images/banner.png
 description: '¡Enséñale a una computadora a decirte cuántos dedos tienes levantados!'
@@ -6,18 +7,14 @@ listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
-  - 
-    title: Lo que harás
-  - 
-    title: Añadir imágenes
+  - title: Lo que harás
+  - title: Añadir imágenes
     completion:
       - engaged
-  - 
-    title: Entrena y pueba
+  - title: Entrena y pueba
     completion:
       - internal
-  - 
-    title: Desafío
+  - title: Desafío
     challenge: true
     completion:
       - external

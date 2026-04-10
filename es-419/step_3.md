@@ -6,13 +6,13 @@
 </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Haz clic en **Entrenar modelo**.
 
 ![El botón 'Entrenar modelo'.](images/train_model.png)
 
-\--- /task ---
+--- /task ---
 
 **Nota**: ¡Ten paciencia! Puede tardar de 10 a 20 segundos en completarse.
 
@@ -20,18 +20,18 @@ Haz clic en **Entrenar modelo**.
 
 Cuando tu modelo esté entrenado, se abrirá el panel de vista previa.
 
-\--- task ---
+--- task ---
 
 - Levanta **cinco** dedos y mira la sección 'Salida' debajo de la vista previa.
 
 Verás las puntuaciones de fiabilidad para `Cinco` y `Tres`.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Levanta **tres** dedos
 - ¿Cuál es la puntuación de fiabilidad más alto que puedes obtener para `Cinco`?
 - ¿Cuál es la puntuación de fiabilidad más alto que puedes obtener para `Tres`?
 
-\--- /task ---
+--- /task ---

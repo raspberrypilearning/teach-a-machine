@@ -6,32 +6,32 @@
 </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Abre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
-\--- /task ---
+--- /task ---
 
 Cada clase es una categoría que quieres que la computadora reconozca.
 
-\--- task ---
+--- task ---
 
 - Cambia el nombre de `Class 1` a `Cinco`
 - Cambiar el nombre de `Class 2` a `Tres`
 
-\--- /task ---
+--- /task ---
 
 Recolecta imágenes de `cinco` dedos.
 
-\--- task ---
+--- task ---
 
 - Haz clic en **Cámara Web** en la clase `Cinco`
 - Levanta cinco dedos frente a tu cámara web (fíjate que tu mano completa esté en el cuadro)
 - Con la otra mano, mantén presionado el botón **Presionar para grabar** para recolectar una gran cantidad de imágenes
 
-\--- /task ---
+--- /task ---
 
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -41,14 +41,14 @@ Recolecta imágenes de `cinco` dedos.
 - La tecnología se llama 'aprendizaje automático', pero no aprende mientras la usas.
 - Ya ha sido entrenado usando una gran cantidad de fotografías.
 
-\--- /collapse ---
+--- /collapse ---
 
 Recolecta imágenes de `tres` dedos.
 
-\--- task ---
+--- task ---
 
 - Haz clic en **'Cámara Web'** en la clase `Tres`
 - Levanta tres dedos frente tu cámara web (fíjate que tu mano completa esté en el cuadro)
 - Con la otra mano, mantén presionado el botón **Presionar para grabar** para recolectar una gran cantidad de imágenes
 
-\--- /task ---
+--- /task ---
