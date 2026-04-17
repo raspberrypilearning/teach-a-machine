@@ -44,6 +44,7 @@ title: Dove sono archiviate le mie immagini?
 --- /collapse ---
 
 Raccogli immagini di `tre` dita.
+
 --- task ---
 
 - Fai clic su **Webcam** nella classe `Tre`
