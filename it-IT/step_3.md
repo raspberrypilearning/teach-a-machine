@@ -6,13 +6,13 @@
 </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Fai clic su **Train Model**.
 
 ![Il pulsante "Train Model".](images/train_model.png)
 
-\--- /task ---
+--- /task ---
 
 **Nota**: Abbi pazienza! Il processo può richiedere dai 10 ai 20 secondi.
 
@@ -20,18 +20,18 @@ Fai clic su **Train Model**.
 
 Una volta addestrato il modello, si aprirà il pannello di anteprima.
 
-\--- task ---
+--- task ---
 
 - Alza **cinque** dita e osserva la sezione 'Output' sotto l'anteprima.
 
 Vedrai i punteggi di confidenza per `Cinque` e `Tre`.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Alza **tre** dita
 - Qual è il punteggio di confidenza più alto che puoi ottenere per `Cinque`?
 - Qual è il punteggio di confidenza più alto che puoi ottenere per `Tre`?
 
-\--- /task ---
+--- /task ---

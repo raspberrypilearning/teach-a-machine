@@ -4,24 +4,26 @@
 
 Insegnerai a un computer a riconoscere quante dita stai alzando!
 
-\--- collapse ---
+--- collapse ---
 
 ---
-
-## title: Dove sono archiviate le mie immagini?
+title: Dove sono archiviate le mie immagini?
+---
 
 - Questo progetto utilizza una tecnologia chiamata "apprendimento automatico". I sistemi di apprendimento automatico vengono addestrati utilizzando una grande quantità di dati.
 - Questo progetto non richiede la creazione di un account né l’accesso. Per questo progetto, gli esempi di immagini utilizzati per creare il modello vengono memorizzati solo temporaneamente nel browser (solo sul computer).
 - Le immagini della webcam non verranno inviate a questo o ad altri siti web.
 
-\--- /collapse ---
+--- /collapse ---
 
 Avrai bisogno di una **webcam**.
 
-## --- collapse ---
-
-## title: Non riesci ad accedere a YouTube? Scarica i video!
+--- collapse ---
+---
+title: Non riesci ad accedere a YouTube? Scarica i video!
+---
 
 Puoi [scaricare tutti i video per questo progetto](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
 
-\--- /collapse ---
+
+--- /collapse ---

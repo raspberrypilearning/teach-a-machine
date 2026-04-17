@@ -6,49 +6,48 @@
 </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Apri [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
-\--- /task ---
+--- /task ---
 
 Ogni classe rappresenta una categoria che il computer deve riconoscere.
 
-\--- task ---
+--- task ---
 
 - Rinomina `Classe 1` in `Cinque`
 - Rinomina `Classe 2` in `Tre`
 
-\--- /task ---
+--- /task ---
 
 Raccogli immagini di `cinque` dita.
 
-\--- task ---
+--- task ---
 
 - Fai clic su **Webcam** nella classe `Cinque`
 - Alza cinque dita davanti alla webcam, assicurandoti che l'intera mano sia ben visibile.
 - Con l'altra mano, tieni premuto il pulsante **Hold to Record** per raccogliere molte immagini.
 
-\--- /task ---
+--- /task ---
 
-\--- collapse ---
+--- collapse ---
 
 ---
-
-## title: Dove sono archiviate le mie immagini?
+title: Dove sono archiviate le mie immagini?
+---
 
 - I tuoi dati non verranno né archiviati né inviati a questo o ad altri siti.
 - Questa tecnologia si chiama "apprendimento automatico", ma non sta imparando mentre la utilizzi.
 - È stata già addestrata utilizzando un gran numero di foto.
 
-\--- /collapse ---
+--- /collapse ---
 
 Raccogli immagini di `tre` dita.
-
 \--- task ---
 
 - Fai clic su **Webcam** nella classe `Tre`
 - Alza tre dita davanti alla webcam, assicurandoti che l'intera mano sia ben visibile.
 - Con l'altra mano, tieni premuto il pulsante **Hold to Record** per raccogliere molte immagini.
 
-\--- /task ---
+--- /task ---
