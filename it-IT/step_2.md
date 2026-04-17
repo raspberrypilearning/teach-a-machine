@@ -44,7 +44,7 @@ title: Dove sono archiviate le mie immagini?
 --- /collapse ---
 
 Raccogli immagini di `tre` dita.
-\--- task ---
+--- task ---
 
 - Fai clic su **Webcam** nella classe `Tre`
 - Alza tre dita davanti alla webcam, assicurandoti che l'intera mano sia ben visibile.
