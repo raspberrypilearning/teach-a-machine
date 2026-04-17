@@ -1,0 +1,27 @@
+1
+00:00:03,040 --> 00:00:05,320
+Fai clic su "Train model" e aspetta...
+
+2
+00:00:05,320 --> 00:00:08,920
+poiché l'operazione potrebbe richiedere
+dai dieci ai venti secondi
+
+3
+00:00:08,920 --> 00:00:12,800
+Una volta completato l'addestramento del modello, 
+si aprirà il pannello di anteprima
+
+4
+00:00:12,800 --> 00:00:18,200
+Alza cinque e tre dita e osserva
+i punteggi di confidenza nell'output sottostante.
+
+5
+00:00:18,200 --> 00:00:21,440
+Perché non provi a vedere se riesce a riconoscere torte o biscotti?
+
+6
+00:00:21,440 --> 00:00:27,200
+Oppure api e bacche?
+
