@@ -8,7 +8,7 @@
 
 --- task ---
 
-Abre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
+Abre [Teachable Machine](https://rpf.io/tm){:target="_blank"}. Selecciona "español latinoamericano" en el menú de idiomas que aparece en la parte inferior de la página.
 
 --- /task ---
 
