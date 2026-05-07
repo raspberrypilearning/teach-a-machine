@@ -31,7 +31,7 @@ Verás las puntuaciones de fiabilidad para `Cinco` y `Tres`.
 --- task ---
 
 - Levanta **tres** dedos
-- ¿Cuál es la puntuación de fiabilidad más alto que puedes obtener para `Cinco`?
-- ¿Cuál es la puntuación de fiabilidad más alto que puedes obtener para `Tres`?
+- ¿Cuál es la puntuación de fiabilidad más alta que puedes obtener para `Cinco`?
+- ¿Cuál es la puntuación de fiabilidad más alta que puedes obtener para `Tres`?
 
 --- /task ---
