@@ -1,0 +1,24 @@
+1
+00:00:03,040 --> 00:00:05,320
+Haz clic en "Entrenar modelo" y espera...
+
+2
+00:00:05,320 --> 00:00:08,920
+porque podría tardar diez a veinte segundos en completarse
+
+3
+00:00:08,920 --> 00:00:12,800
+Cuando tu modelo esté entrenado, se abrirá el panel de vista previa
+
+4
+00:00:12,800 --> 00:00:18,200
+Levanta cinco y tres dedos y observa los indicadores de confianza en la salida de abajo.
+
+5
+00:00:18,200 --> 00:00:21,440
+¿Por qué no comprobar si reconoce un pastel o unas galletas?
+
+6
+00:00:21,440 --> 00:00:27,200
+¿O abejas y frutos rojos?
+
