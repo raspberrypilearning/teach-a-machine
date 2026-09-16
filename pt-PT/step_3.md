@@ -6,13 +6,13 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Clica em **Modelo preparado**.
 
 ![O botão 'Modelo preparado'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 **Nota:** Sê paciente! Pode levar 10 a 20 segundos para completar.
 
@@ -20,18 +20,18 @@ Clica em **Modelo preparado**.
 
 Quando o modelo estiver treinado, o painel de pré-visualização vai abrir.
 
---- task ---
+\--- task ---
 
 - Levanta **cinco** dedos e observa a secção 'Saída' abaixo da pré-visualização.
 
 Vais ver pontuações de confiança para `Cinco` e `Três`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Levanta **três** dedos
 - Qual é a maior pontuação de confiança que podes obter para `Cinco`?
 - Qual é a maior pontuação de confiança que podes obter para `Três`?
 
---- /task ---
+\--- /task ---
