@@ -6,13 +6,13 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Clique sur **Train Model**.
 
 ![Le bouton "Train Model".](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 **Remarque** : Patience ! Cela peut prendre entre 10 et 20 secondes.
 
@@ -20,18 +20,18 @@ Clique sur **Train Model**.
 
 Lorsque ton modèle est entraîné, le panneau d'aperçu s'ouvre.
 
---- task ---
+\--- task ---
 
 - Lève **cinq** doigts et regarde la section « Output » sous l'aperçu.
 
-Tu verras des scores de confiance pour `Cinq` et `Trois`.
+Tu verras des scores de confiance pour « Cinq » et « Trois ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Lève **trois** doigts
 - Quel est le score de confiance le plus élevé que tu puisses obtenir pour « Cinq » ?
 - Quel est le score de confiance le plus élevé que tu puisses obtenir pour « Trois » ?
 
---- /task ---
+\--- /task ---
