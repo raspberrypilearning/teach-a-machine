@@ -4,24 +4,24 @@
 
 Vais ensinar um computador a dizer-te quantos dedos tens levantados!
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Onde estão guardadas as minhas imagens?
----
+
+## title: Onde estão guardadas as minhas imagens?
+
 - Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados.
 - Este projeto não exige que cries uma conta ou faças login. Para este projeto, as imagens de exemplo que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
 - Nenhuma imagem da tua webcam é enviada para este site ou qualquer outro.
 
---- /collapse ---
+\--- /collapse ---
 
 Vais precisar de uma **webcam**.
 
---- collapse ---
----
-title: Não tens Youtube? Descarrega estes vídeos!
----
+## --- collapse ---
+
+## title: Não tens Youtube? Descarrega estes vídeos!
 
 Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/teach-a-machine-go){:target="_blank"}.
 
---- /collapse ---
+\--- /collapse ---
