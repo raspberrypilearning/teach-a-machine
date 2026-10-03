@@ -6,48 +6,49 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Abra [Máquina Ensinável](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 Cada classe é uma categoria que você quer que o computador reconheça.
 
---- task ---
+\--- task ---
 
 - Renomeie `Classe 1` para `Cinco`
 - Renomeie `Classe 2` para `Três`
 
---- /task ---
+\--- /task ---
 
 Colete imagens de `cinco` dedos.
 
---- task ---
+\--- task ---
 
 - Clique em **Webcam** na classe `Cinco`
 - Mostre cinco dedos em direção à sua webcam (certifique-se de que toda a sua mão esteja visível)
 - Com seu outro lado, pressione e segure o botão **Segure para gravar** para coletar muitas imagens
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Onde minhas imagens são armazenadas?
----
+
+## title: Onde minhas imagens são armazenadas?
+
 - Nenhum dos seus dados é armazenado ou enviado para este ou qualquer outro site.
 - A tecnologia é chamada de "aprendizado de máquina", mas a máquina não está aprendendo enquanto você a usa.
 - Ela já foi treinada usando um grande número de fotos.
 
---- /collapse ---
+\--- /collapse ---
 
 Colete imagens de `três` dedos.
 
---- task ---
+\--- task ---
 
 - Clique em **Webcam** na classe `Três`
 - Mostre três dedos em direção à sua webcam (certifique-se de que toda a sua mão esteja visível)
 - Com seu outro lado, pressione e segure o botão **Segure para gravar** para coletar muitas imagens
 
---- /task ---
+\--- /task ---

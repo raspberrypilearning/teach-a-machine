@@ -6,13 +6,13 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Klicke **Modell trainieren**.
 
 ![Die Taste „Modell trainieren“.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 **Hinweis**: Sei geduldig! Es kann 10 bis 20 Sekunden dauern.
 
@@ -20,18 +20,18 @@ Klicke **Modell trainieren**.
 
 Wenn das Modell trainiert ist, wird das Vorschaufenster geöffnet.
 
---- task ---
+\--- task ---
 
 - Halte **Fünf** Finger vor die Webcam und beobachte die Vorschau im Abschnitt "Ausgabe".
 
 Du wirst Vertrauenswerte für `Fünf` und `Drei` sehen.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Halte **drei** Finger vor die Webcam
 - Was ist der höchste Vertrauenswert, den du für `Fünf` erreichen kannst?
 - Was ist der höchste Vertrauenswert, den du für `Drei` erreichen kannst?
 
---- /task ---
+\--- /task ---
