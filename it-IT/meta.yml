@@ -6,14 +6,18 @@ listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
-  - title: Cosa creerai
-  - title: Aggiungi immagini
+  - 
+    title: Cosa creerai
+  - 
+    title: Aggiungi immagini
     completion:
-    - engaged
-  - title: Addestra e testa
+      - engaged
+  - 
+    title: Addestra e testa
     completion:
-    - internal
-  - title: Sfida
+      - internal
+  - 
+    title: Sfida
     challenge: true
     completion:
       - external
