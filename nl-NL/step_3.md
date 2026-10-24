@@ -6,13 +6,13 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Klik op **Model trainen**.
 
 ![De 'Model trainen' knop.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 **Let op:** Heb geduld! Het kan 10 tot 20 seconden duren om te voltooien.
 
@@ -20,18 +20,18 @@ Klik op **Model trainen**.
 
 Zodra je model is getraind, wordt het voorbeeldvenster geopend.
 
---- task ---
+\--- task ---
 
 - Steek **vijf** vingers omhoog en kijk naar het gedeelte 'Uitvoer' onder het voorbeeld.
 
 Je ziet betrouwbaarheidscores voor `Vijf` en `Drie`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Houd **drie** vingers omhoog
 - Wat is de hoogste betrouwbaarheidsscore die je kunt halen voor `Vijf`?
 - Wat is de hoogste betrouwbaarheidsscore die je kunt halen voor `Drie`?
 
---- /task ---
+\--- /task ---
