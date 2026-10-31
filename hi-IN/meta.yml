@@ -1,4 +1,3 @@
----
 title: मशीन को सिखाएं
 hero_image: images/banner.png
 description: कंप्यूटर को सिखाएं कि वह आपको बताए कि आपने कितनी उंगलियां पकड़ रखी हैं!
@@ -7,14 +6,18 @@ listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
-  - title: आप क्या बनाएँगे
-  - title: छवि जोड़ें
+  - 
+    title: आप क्या बनाएँगे
+  - 
+    title: छवि जोड़ें
     completion:
       - engaged
-  - title: प्रशिक्षण और परीक्षण
+  - 
+    title: प्रशिक्षण और परीक्षण
     completion:
       - internal
-  - title: चुनौती
+  - 
+    title: चुनौती
     challenge: true
     completion:
       - external
