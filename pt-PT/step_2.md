@@ -6,49 +6,49 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Abre [Teachable Machine](https://rpf.io/tm){:target="_blank"}.
 
---- /task ---
+\--- /task ---
 
 Cada classe é uma categoria que tu queres que o computador reconheça.
 
---- task ---
+\--- task ---
 
 - Muda o nome `Classe 1` para `Cinco`
 - Muda o nome `Classe 2` para `Três`
 
---- /task ---
+\--- /task ---
 
 Reúne imagens de `cinco` dedos.
 
---- task ---
+\--- task ---
 
 - Clica em **Webcam** na classe `Cinco`
 - Levanta cinco dedos em frente à tua webcam (certifica-te que a tua mão toda esteja visível)
 - Com a tua outra mão, pressiona e segura o botão **Tocar sem soltar para gravar** para recolher muitas imagens
 
---- /task ---
+\--- /task ---
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Onde estão guardadas as minhas imagens?
----
+
+## title: Onde estão guardadas as minhas imagens?
 
 - Nenhum dos teus dados é armazenado ou enviado para este ou qualquer outro site.
 - A tecnologia é chamada 'machine learning', mas não aprende enquanto estás a usá-la.
 - Já foi treinada usando um grande número de fotos.
 
---- /collapse ---
+\--- /collapse ---
 
 Recolhe imagens de `três` dedos.
 
---- task ---
+\--- task ---
 
 - Clica em **Webcam** na classe `Três`
 - Levanta três dedos em frente à tua webcam (certifica-te que a tua mão toda esteja visível)
 - Com a tua outra mão, pressiona e segura o botão **Tocar sem soltar para gravar** para recolher muitas imagens
 
---- /task ---
+\--- /task ---
