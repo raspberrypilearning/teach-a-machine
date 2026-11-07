@@ -1,0 +1,23 @@
+title: 機械に教える
+hero_image: images/banner.png
+description: コンピューターに、あなたが立てている指の本数を伝えることができるように学ばせましょう！
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-05-24"
+steps:
+  - 
+    title: はじめに
+  - 
+    title: 画像を追加する
+    completion:
+      - engaged
+  - 
+    title: トレーニングとテスト
+    completion:
+      - internal
+  - 
+    title: チャレンジ
+    challenge: true
+    completion:
+      - external
