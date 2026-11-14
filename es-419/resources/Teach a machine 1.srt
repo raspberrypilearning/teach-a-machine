@@ -1,0 +1,32 @@
+1
+00:00:02,840 --> 00:00:03,960
+Dirígete a rpf.io/tm
+
+2
+00:00:05,920 --> 00:00:10,880
+y renombra 'Class 1' y 'Class 2' a 'Cinco' y 'Tres'
+
+3
+00:00:10,880 --> 00:00:13,040
+Haz clic en 'Cámara Web' en la clase Cinco
+
+4
+00:00:13,040 --> 00:00:14,760
+y levanta cinco dedos
+
+5
+00:00:14,760 --> 00:00:19,240
+Con tu otra mano, presiona y mantén presionado el botón 'Presionar para grabar'
+
+6
+00:00:19,240 --> 00:00:21,680
+para recolectar una gran cantidad de imágenes
+
+7
+00:00:21,680 --> 00:00:24,360
+Cambia a la clase 'Tres'  y recolecta una gran cantidad de imágenes
+
+8
+00:00:24,360 --> 00:00:29,200
+de ti levantando tres dedos
+
