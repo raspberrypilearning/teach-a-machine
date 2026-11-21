@@ -4,25 +4,24 @@
 
 Je gaat een computer leren om je te vertellen hoeveel vingers je omhoog houdt!
 
---- collapse ---
+\--- collapse ---
 
 ---
-title: Waar worden mijn afbeeldingen opgeslagen?
----
+
+## title: Waar worden mijn afbeeldingen opgeslagen?
 
 - Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
 - Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de afbeeldingsvoorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
 - Er worden geen afbeeldingen van je webcam verzonden naar deze website of naar een andere website.
 
---- /collapse ---
+\--- /collapse ---
 
 Je hebt een **webcam** nodig.
 
---- collapse ---
----
-title: Geen YouTube? Download de video's!
----
+## --- collapse ---
 
-Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/teach-a-machine-go){:target="_blank"}.
+## title: Geen YouTube? Download de video's!
 
---- /collapse ---
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/teach-a-machine-go){:target="_blank"}.
+
+\--- /collapse ---
