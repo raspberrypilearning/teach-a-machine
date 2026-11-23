@@ -1,4 +1,3 @@
----
 title: Ensine uma máquina
 hero_image: images/banner.png
 description: Ensine um computador a dizer quantos dedos você está levantando!
@@ -7,14 +6,18 @@ listed: true
 copyedit: true
 last_tested: "2024-05-24"
 steps:
-  - title: Você vai fazer
-  - title: Adicionar imagens
+  - 
+    title: Você vai fazer
+  - 
+    title: Adicionar imagens
     completion:
       - engaged
-  - title: Treinar e testar
+  - 
+    title: Treinar e testar
     completion:
       - internal
-  - title: Desafio
+  - 
+    title: Desafio
     challenge: true
     completion:
       - external
