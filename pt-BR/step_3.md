@@ -6,13 +6,13 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Clique em **Treinar Modelo**.
 
 ![Botão 'Treinar Modelo'.](images/train_model.png)
 
---- /task ---
+\--- /task ---
 
 **Observação**: Seja paciente! Pode levar de 10 a 20 segundos para ser concluído.
 
@@ -20,18 +20,18 @@ Clique em **Treinar Modelo**.
 
 Quando seu modelo é treinado, o painel de pré-visualização será aberto.
 
---- task ---
+\--- task ---
 
 - Mostre **cinco** dedos e veja a seção 'Saída' embaixo da pretela.
 
 Você verá índices de confiança para `Cinco` e `Três`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Mostre **três** dedos
 - Qual é a maior índice de confiança que você pode obter para `Cinco`?
 - Qual é a maior índice de confiança que você pode obter para `Três`?
 
---- /task ---
+\--- /task ---
